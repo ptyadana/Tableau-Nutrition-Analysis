@@ -7,7 +7,7 @@ Analyzing Nutrition values and calories consumption of daily meals over period o
 ## Live Demo
 + [view Project Details on Tableau Public](https://public.tableau.com/profile/phonethiriyadana#!/vizhome/NutritionConsumptionAnalysis/NutritionDashboard)
 
-![Project Screenshot]()
+![Project Screenshot](https://raw.githubusercontent.com/ptyadana/Tableau-Nutrition-Analysis/master/dashboard_screenshot.png)
 
 
 ## Datasets
