@@ -1,0 +1,1237 @@
+Date,Meal,Entry,Food,Food Score,calories (kcal),carbs (g),fat (g),protein (g),sodium (mg),sugar (g)
+2/1/2018,Breakfast,"Banana - Banana, 1 medium banana (126 g)",Banana,Healthy,105,27,0,1,1,14
+2/1/2018,Breakfast,"Pure Protein - Whey Protein Vanilla, 1 scoop",Whey Protein,Neutral,150,8,3,25,100,2
+2/1/2018,Breakfast,"Milk - Whole, 3.25% milkfat, 1.25 cup",Whole Milk,Neutral,183,14,10,10,122,16
+2/1/2018,Lunch,"Wegmans - Organic Ciabatta Roll, 1 Roll (78g)",Ciabatta Roll,Neutral,210,39,3,8,370,1
+2/1/2018,Lunch,"ground Turkey - Turkey, 4 oz",Ground Turkey,Neutral,160,1,8,22,85,0
+2/1/2018,Lunch,"Mayo - Mayo, 2 tablespoon",Mayo,Unhealthy,90,2,9,0,220,0
+2/1/2018,Lunch,"Giorgio - Mushrooms, 3 oz",Mushrooms,Healthy,20,3,0,2,10,1
+2/1/2018,Lunch,"Spinach - Raw, 0.33 cup",Spinach,Healthy,2,0,0,0,8,0
+2/1/2018,Lunch,"Tillamook - Sliced Swiss Cheese, 1 slice (28 g)",Swiss Cheese,Unhealthy,110,1,8,9,60,0
+2/1/2018,Dinner,"the China - Chicken Lomein, 2 cup",Lo Mein,Unhealthy,556,66,18,31,"1,072",5
+2/1/2018,Dessert,"Michigan Dining - Cream Puffs, 2 Cream Puff",Cream Puffs,Unhealthy,125,13,7,4,245,0
+2/1/2018,Dessert,"Flan Custard - (Flan), 0.75 cup (153 g)",Custard,Unhealthy,335,53,9,11,122,53
+2/1/2018,Dessert,"Croissants - Croissants, 1 croissant",Croissant,Unhealthy,100,32,17,5,350,4
+2/1/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1.25 cup",Whole Milk,Neutral,183,14,10,10,122,16
+2/2/2018,Breakfast,"Walmart - Greek Nonfat Yogurt, 0.5 cup",Greek Yogurt,Healthy,60,5,0,12,58,5
+2/2/2018,Breakfast,"Blueberries, 0.5 cup",Blueberries,Healthy,43,11,0,1,1,8
+2/2/2018,Breakfast,"Flax Seed - Flax Seeds, 0.5 tbsp",Flax Seeds,Healthy,35,2,3,1,0,0
+2/2/2018,Breakfast,"Chia Seed, 0.5 tbsp",Chia Seeds,Healthy,30,3,2,2,0,0
+2/2/2018,Lunch,"Chinese - Teriyaki Chicken Stick, 2 Skewer",Teriyaki Chicken,Neutral,218,9,3,36,"2,244",5
+2/2/2018,Lunch,"Grilled Veggies - Veggies, 2 cup",Veggies,Healthy,140,12,6,12,220,0
+2/2/2018,Dinner,"Spaghetti Warehouse - Spaghetti With Tomato Sauce, 2 dinner size",Speghetti,Neutral,340,156,6,30,610,0
+2/2/2018,Dinner,"Grilled Veggies - Veggies, 2 cup",Veggies,Healthy,140,12,6,12,220,0
+2/2/2018,Drinks,"Wine - Table, red, 4 glass (3.5 fl oz)",Red Wine,Unhealthy,297,7,0,1,21,0
+2/2/2018,Snacks,"Health Warrior - Chia Bar Acai, 1 bar",Health Bar,Neutral,100,14,5,3,45,5
+2/2/2018,Snacks,"Tostitos - Chips & Salsa, 26 chips",Chips & Salsa,Unhealthy,300,36,14,4,0,0
+2/2/2018,Drinks,"Blue Moon - Wheat Ale, 36 oz",Beer,Unhealthy,504,42,0,6,45,0
+2/2/2018,Snacks,"Pringles - Sour Cream & Onion (1.41oz), 0.67 can",Potato Chips,Unhealthy,140,15,8,1,153,1
+2/3/2018,Breakfast,"Beast - Banana Pancakes, 4.5 pancakes",Banana Pancakes,Unhealthy,473,59,15,30,633,15
+2/3/2018,Breakfast,"Syrup, maple, Canadian, 20.0 milliliter",Maple Syrup,Unhealthy,72,18,0,0,2,16
+2/3/2018,Lunch,"Wegmans - Organic Ciabatta Roll, 1 Roll (78g)",Ciabatta Roll,Neutral,210,39,3,8,370,1
+2/3/2018,Lunch,"Mayo - Mayo, 2 tablespoon",Mayo,Unhealthy,90,2,9,0,220,0
+2/3/2018,Lunch,"Giorgio - Mushrooms, 3 oz",Mushrooms,Healthy,20,3,0,2,10,1
+2/3/2018,Lunch,"Spinach - Raw, 0.33 cup",Spinach,Healthy,2,0,0,0,8,0
+2/3/2018,Lunch,"Boarshead - Chipotle Gouda Cheese, 1 oz",Gouda Cheese,Unhealthy,100,0,8,6,240,0
+2/3/2018,Lunch,"ground Turkey - Turkey, 3 oz",Ground Turkey,Neutral,120,1,6,17,64,0
+2/3/2018,Dinner,"Tortillas - Chips, 22.5 chips",Tortilla Chips,Unhealthy,350,48,18,5,0,0
+2/3/2018,Dinner,"Sauce - Salsa, 1 cup",Salsa,Neutral,70,16,0,4,"1,554",8
+2/3/2018,Dinner,"Rice - White, glutinous, cooked, 1 cup",White Rice,Neutral,169,37,0,4,9,0
+2/3/2018,Dinner,"Tofu - Tofu, 3 oz",Tofu,Healthy,60,1,7,10,0,0
+2/3/2018,Dinner,"Bush's Beans - Texas Ranchero, 0.5 cup",Ranchero Beans,Neutral,120,20,2,6,630,2
+2/3/2018,Dinner,"Beans - Red Beans, 0.33 cup",Red Beans,Healthy,75,13,0,5,400,0
+2/3/2018,Drinks,"Wine - Table, red, 1.5 glass (3.5 fl oz)",Red Wine,Unhealthy,111,3,0,0,8,0
+2/3/2018,Snacks,"Pure Protein - Whey Protein Vanilla, 1 scoop",Whey Protein,Neutral,150,8,3,25,100,2
+2/3/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1 cup",Whole Milk,Neutral,146,11,8,8,98,13
+2/3/2018,Snacks,"Rice - White, glutinous, cooked, 0.5 cup",White Rice,Neutral,84,18,0,2,4,0
+2/4/2018,Breakfast,"Special K - Fruit & Yogurt Cereal, 0.75 Cup",Cereal,Neutral,120,27,1,2,140,10
+2/4/2018,Breakfast,"Milk - Whole, 3.25% milkfat, 0.5 cup",Whole Milk,Neutral,73,6,4,4,49,6
+2/4/2018,Breakfast,"Blueberries, 0.5 cup",Blueberries,Healthy,43,11,0,1,1,8
+2/4/2018,Lunch,"Tilapia Fillets - Tilapia, 1 Fillet",Fish,Healthy,100,0,3,20,75,0
+2/4/2018,Lunch,"Tofu - Tofu, 3 oz",Tofu,Healthy,60,1,7,10,0,0
+2/4/2018,Lunch,"Allrecipes.com - Bhindi Masala, 1/12 recipe",Bhindi Masala,Healthy,33,5,1,1,199,0
+2/4/2018,Lunch,"Journey to India / Aldi - Tikka Masala, 0.38 cup",Tikka Masala,Unhealthy,105,9,7,0,495,6
+2/4/2018,Dinner,"Journey to India / Aldi - Tikka Masala, 0.38 cup",Tikka Masala,Unhealthy,105,9,7,0,495,6
+2/4/2018,Dinner,"Giorgio - Mushrooms, 3 oz",Mushrooms,Healthy,20,3,0,2,10,1
+2/4/2018,Dinner,"Tofu - Tofu, 3 oz",Tofu,Healthy,60,1,7,10,0,0
+2/4/2018,Dinner,"Rice - White, glutinous, cooked, 0.5 cup",White Rice,Neutral,84,18,0,2,4,0
+2/4/2018,Dinner,"Tofu - Tofu, 3 oz",Tofu,Healthy,60,1,7,10,0,0
+2/4/2018,Dinner,"Bush's Beans - Texas Ranchero, 0.5 cup",Ranchero Beans,Neutral,120,20,2,6,630,2
+2/4/2018,Dinner,"Beans - Red Beans, 0.33 cup",Red Beans,Healthy,75,13,0,5,400,0
+2/4/2018,Dinner,"Brothers - Mozzarella Cheese Sticks, 6 Stick",Mozzarella Sticks,Unhealthy,612,48,36,30,"1,476",0
+2/4/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1.5 cup",Whole Milk,Neutral,220,17,12,12,146,19
+2/4/2018,Snacks,"Pure Protein - Whey Protein Vanilla, 1 scoop",Whey Protein,Neutral,150,8,3,25,100,2
+2/4/2018,Snacks,"Rice - White, glutinous, cooked, 0.5 cup",White Rice,Neutral,84,18,0,2,4,0
+2/4/2018,Snacks,"Beans - Red Beans, 0.33 cup",Red Beans,Healthy,75,13,0,5,400,0
+2/4/2018,Snacks,"Silk Creamy Cashew - Cashew Milk, 0.75 cup",Silk Milk,Neutral,45,7,2,0,128,5
+2/4/2018,Snacks,"Simply Nature - Kale Chips, lemon and olive oil, 1 oz",Kale Chips,Healthy,130,18,6,1,390,1
+2/4/2018,Dessert,"Blueberries, 0.5 cup",Blueberries,Healthy,43,11,0,1,1,8
+2/5/2018,Breakfast,"Egg - Egg, 1 large",Eggs,Healthy,72,0,5,6,71,0
+2/5/2018,Breakfast,"Tillamook - Sliced Swiss Cheese, 1 slice (28 g)",Swiss Cheese,Unhealthy,110,1,8,9,60,0
+2/5/2018,Breakfast,"ham - Honey Ham, 4 slices",Ham,Neutral,60,3,2,9,650,2
+2/5/2018,Breakfast,"English muffin - English Muffin, 1 muffin",English Muffin,Unhealthy,120,25,1,4,200,1
+2/5/2018,Breakfast,"Ketchup - Heinz, 15 milliliter",Ketchup,Unhealthy,20,5,0,0,160,4
+2/5/2018,Lunch,"Costco - Sante Fe Salad, 1 bowl",Salad,Healthy,280,14,20,11,560,6
+2/5/2018,Lunch,"Crackers - Crackers, 12 crackers",Crackers,Neutral,195,11,8,6,300,3
+2/5/2018,Lunch,"hummus - Hummus, 3 tbsp",Hummus,Healthy,105,6,8,3,195,2
+2/5/2018,Dinner,"Golden potatoes - Golden, 185 g/5.3oz",Potatoes,Neutral,138,33,0,4,0,1
+2/5/2018,Dinner,"Asparagus - Raw, 1 cup",Asparagus,Healthy,27,5,0,3,3,3
+2/5/2018,Dinner,"Sainsbury's - Vegetable Sausages, 1 Sausage",Vegetable Sausage,Healthy,69,9,3,2,0,0
+2/5/2018,Dinner,"Risotto - Risotto, 0.33 cup",Risotto,Neutral,213,48,0,4,0,0
+2/5/2018,Drinks,"Wine - Table, red, 1.5 glass (3.5 fl oz)",Red Wine,Unhealthy,111,3,0,0,8,0
+2/5/2018,Snacks,"Pure Protein - Whey Protein Vanilla, 1 scoop",Whey Protein,Neutral,150,8,3,25,100,2
+2/5/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1.5 cup",Whole Milk,Neutral,220,17,12,12,146,19
+2/5/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1.5 cup",Whole Milk,Neutral,220,17,12,12,146,19
+2/5/2018,Snacks,"Pringles - Sour Cream & Onion (1.41oz), 1 can",Potato Chips,Unhealthy,210,23,12,2,230,1
+2/5/2018,Snacks,"Pringles - Sour Cream & Onion (1.41oz), 0.75 can",Potato Chips,Unhealthy,158,17,9,2,173,1
+2/5/2018,Snacks,"Medium Nectarine - Medium Nectarine, 1 Nectarine",Oranges,Healthy,60,14,0,1,0,11
+2/6/2018,Breakfast,"Special K - Fruit & Yogurt Cereal, 0.75 Cup",Cereal,Neutral,120,27,1,2,140,10
+2/6/2018,Breakfast,"Milk - Whole, 3.25% milkfat, 0.5 cup",Whole Milk,Neutral,73,6,4,4,49,6
+2/6/2018,Breakfast,"Blueberries, 0.5 cup",Blueberries,Healthy,43,11,0,1,1,8
+2/6/2018,Lunch,"Sushi - Edamane, 5 oz",Edamame,Healthy,100,9,3,7,260,2
+2/6/2018,Lunch,"Tuna - Tuna roll, 2 roll",Sushi,Neutral,474,67,19,9,0,0
+2/6/2018,Lunch,"Citygirlbites - Yellowtail & Scallion Roll, 2 roll",Sushi,Neutral,380,54,4,48,0,0
+2/6/2018,Lunch,"Sushi - Salmon, 4 piece",Fish,Healthy,224,33,6,13,0,0
+2/6/2018,Dinner,"Wegmans - Organic Ciabatta Roll, 1 Roll (78g)",Ciabatta Roll,Neutral,210,39,3,8,370,1
+2/6/2018,Dinner,"Trader Joe's - Meatless Meatballs, 6 pieces (85g)",Meatballs,Unhealthy,140,8,5,14,470,1
+2/6/2018,Dinner,"Borden - Natural Shredded Gouda, 14 g (1/4cup)",Gouda Cheese,Unhealthy,50,1,35,4,90,0
+2/6/2018,Dinner,"Bounce - Natural Energy Ball, 1 ball",Energy Ball,Healthy,210,21,8,12,0,12
+2/6/2018,Dinner,"Milk - Whole, 3.25% milkfat, 0.67 cup",Whole Milk,Neutral,98,7,5,5,65,9
+2/6/2018,Dessert,"Trader Joe's - Dried Blueberries, 0.25 cup",Candy,Unhealthy,140,33,0,1,0,14
+2/6/2018,Snacks,"Pure Protein - Whey Protein Vanilla, 1 scoop",Whey Protein,Neutral,150,8,3,25,100,2
+2/6/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1 cup",Whole Milk,Neutral,146,11,8,8,98,13
+2/7/2018,Breakfast,"Egg - Egg, 1 large",Eggs,Healthy,72,0,5,6,71,0
+2/7/2018,Breakfast,"English muffin - English Muffin, 1 muffin",English Muffin,Unhealthy,120,25,1,4,200,1
+2/7/2018,Breakfast,"ham - Honey Ham, 4 slices",Ham,Neutral,60,3,2,9,650,2
+2/7/2018,Breakfast,"Tillamook - Sliced Swiss Cheese, 1 slice (28 g)",Swiss Cheese,Unhealthy,110,1,8,9,60,0
+2/7/2018,Breakfast,"Ketchup - Heinz, 15 milliliter",Ketchup,Unhealthy,20,5,0,0,160,4
+2/7/2018,Breakfast,"Bounce - Natural Energy Ball, 1 ball",Energy Ball,Healthy,210,21,8,12,0,12
+2/7/2018,Breakfast,"Milk - Whole, 3.25% milkfat, 1 cup",Whole Milk,Neutral,146,11,8,8,98,13
+2/7/2018,Lunch,"Tillamook - Sliced Swiss Cheese, 1 slice (28 g)",Swiss Cheese,Unhealthy,110,1,8,9,60,0
+2/7/2018,Lunch,"ground Turkey - Turkey, 4 oz",Ground Turkey,Neutral,160,1,8,22,85,0
+2/7/2018,Lunch,"Spinach - Raw, 2 cup",Spinach,Healthy,14,2,0,2,47,0
+2/7/2018,Lunch,"Borden - Natural Shredded Gouda, 14 g (1/4cup)",Gouda Cheese,Unhealthy,50,1,35,4,90,0
+2/7/2018,Dinner,"Shirakiku - Yam Noodle (Shiratake), 28 g",Jelly Noodles,Neutral,0,0,0,0,0,0
+2/7/2018,Dinner,"Nasogastric - Veggie dumping s, 2.33 dumplings",Dumplings,Unhealthy,87,13,2,4,0,0
+2/7/2018,Dinner,"Trader Joe's - Chicken-Less Mandarin Orange Morsels, 0.38 container (20 pieces ea.)",Orange Chicken,Unhealthy,240,29,8,12,428,13
+2/7/2018,Snacks,"Bounce - Natural Energy Ball, 1 ball",Energy Ball,Healthy,210,21,8,12,0,12
+2/7/2018,Snacks,"Pringles - Sour Cream & Onion (1.41oz), 2 can",Potato Chips,Unhealthy,420,46,24,4,460,2
+2/7/2018,Snacks,"ham - Honey Ham, 4 slices",Ham,Neutral,60,3,2,9,650,2
+2/7/2018,Snacks,"Snodream - Shaved Sno Ice , 0.5 cup",Shaved Ice,Neutral,79,19,2,1,13,11
+2/7/2018,Dessert,"Blueberries, 0.5 cup",Blueberries,Healthy,43,11,0,1,1,8
+2/7/2018,Dessert,"Strawberries, raw, 0.5 cup, halves",Strawberries,Healthy,24,6,0,1,1,4
+2/7/2018,Dessert,"Berry protein smoothie - Smoothie, 2 cup",Smoothie,Healthy,612,72,6,72,0,0
+2/7/2018,Snacks,"Michigan Dining - Scrambled Tofu, 0.5 Cup",Tofu,Healthy,102,5,5,10,216,1
+2/7/2018,Snacks,"ham - Honey Ham, 3 slices",Ham,Neutral,45,2,1,7,488,2
+2/7/2018,Snacks,"Tillamook - Sliced Swiss Cheese, 1 slice (28 g)",Swiss Cheese,Unhealthy,110,1,8,9,60,0
+2/7/2018,Snacks,"Egg - Egg, 2 large",Eggs,Healthy,143,1,10,13,142,0
+2/8/2018,Breakfast,"Egg - Egg, 2 large",Eggs,Healthy,143,1,10,13,142,0
+2/8/2018,Breakfast,"Tillamook - Sliced Swiss Cheese, 1 slice (28 g)",Swiss Cheese,Unhealthy,110,1,8,9,60,0
+2/8/2018,Breakfast,"Deli sliced - Turkey, 2.5 pieces",Turkey,Neutral,25,1,0,5,210,0
+2/8/2018,Lunch,"Barber Foods - Chicken Parmesan, 0.9 piece",Chicken Parmesan,Unhealthy,225,12,13,18,441,2
+2/8/2018,Lunch,"Black Beans, 0.5 cup",Black Beans,Healthy,110,19,1,7,10,1
+2/8/2018,Lunch,"Boar's Head - Gruyere Cheese, 0.35 oz",Gruyere Cheese,Unhealthy,39,0,3,2,53,0
+2/8/2018,Lunch,"Beans - Pinto, canned, 0.5 cup",Pinto Beans,Healthy,103,18,1,6,353,0
+2/8/2018,Dinner,"Patties - Burger, 2 patty",Burger,Unhealthy,480,0,34,42,150,0
+2/8/2018,Dinner,"Kaiser - Roll, 1 rolll",Bread,Unhealthy,167,30,3,6,310,1
+2/8/2018,Dinner,"Boarshead - Chipotle Gouda Cheese, 1 oz",Gouda Cheese,Unhealthy,100,0,8,6,240,0
+2/8/2018,Dinner,"Roma - Tomato Slice, 1 Slice",Tomatoes,Healthy,5,1,0,0,1,1
+2/8/2018,Dinner,"Guac - Guac, 1 pack",Guacamole,Healthy,100,5,9,1,0,0
+2/8/2018,Dinner,"OreIda - Sweet Potato Fries, 4.2 Oz",French Fries,Unhealthy,224,29,11,1,224,8
+2/8/2018,Dinner,"Ketchup - Heinz, 15 milliliter",Ketchup,Unhealthy,20,5,0,0,160,4
+2/8/2018,Drinks,"Wine - Table, red, 2.5 glass (3.5 fl oz)",Red Wine,Unhealthy,185,4,0,1,13,0
+2/8/2018,Snacks,"Simply Nature - Vanilla Chip Chewy Granola Bar (Corrected 7/15), 1 bar",Granola Bar,Neutral,100,18,3,2,15,8
+2/8/2018,Snacks,"Kirlands - unsalted mixed nuts, 0.25 cup",Nuts,Healthy,190,7,16,5,0,2
+2/8/2018,Dessert,"Pas - Black and White Cookie, 1.5 oz",Cookies,Unhealthy,170,30,5,2,120,20
+2/8/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1 cup",Whole Milk,Neutral,146,11,8,8,98,13
+2/9/2018,Breakfast,"Trader Joe's - Organic Oats & Flax Instant Oatmeal, 1 packet",Oatmeal,Healthy,150,29,2,4,130,11
+2/9/2018,Breakfast,"Blueberries, 0.5 cup",Blueberries,Healthy,43,11,0,1,1,8
+2/9/2018,Lunch,"Primefoods - Steamed Pork Buns, 3 piece",Pork Buns,Unhealthy,390,69,8,15,330,21
+2/9/2018,Lunch,"Chinese - Lo Mein, 1 cup",Lo Mein,Unhealthy,310,35,12,15,492,3
+2/9/2018,Dinner,"Boar's Head - Gruyere Cheese, 1 oz",Gruyere Cheese,Unhealthy,110,0,9,7,150,0
+2/9/2018,Dinner,"Liscio's - Italian Sub Roll , 1 roll",Bread,Unhealthy,310,65,3,7,940,1
+2/9/2018,Dinner,"Trader Joe's - Meatless Meatballs, 12 pieces (85g)",Meatballs,Unhealthy,280,16,10,28,940,2
+2/9/2018,Dinner,"Homemade - Quick Tomato Sauce, 0.5 cup",Tomato Sauce,Neutral,60,6,2,2,44,4
+2/9/2018,Snacks,"Pure Protein - Whey Protein Vanilla, 1 scoop",Whey Protein,Neutral,150,8,3,25,100,2
+2/9/2018,Snacks,"Milk - Whole, 3.25% milkfat, 0.5 cup",Whole Milk,Neutral,73,6,4,4,49,6
+2/9/2018,Snacks,"Wonderful - Pastachios, 0.63 cup",Nuts,Healthy,188,10,16,8,169,3
+2/9/2018,Drinks,"Bacardi Breezer - Pina Colada, 4 oz",Pina Colada,Unhealthy,105,12,1,0,0,0
+2/9/2018,Snacks,"Utz - Pub Mix, 1 oz",Snack Mix,Unhealthy,130,19,5,3,330,2
+2/9/2018,Dessert,"Strawberries, raw, 1 cup, halves",Strawberries,Healthy,49,12,0,1,2,7
+2/10/2018,Breakfast,"Egg - Egg, 2 large",Eggs,Healthy,143,1,10,13,142,0
+2/10/2018,Breakfast,"Black Beans, 0.5 cup",Black Beans,Healthy,110,19,1,7,10,1
+2/10/2018,Breakfast,"Guac - Guac, 1 pack",Guacamole,Healthy,100,5,9,1,0,0
+2/10/2018,Breakfast,"Tomato - Tomato Slices, 2 slice",Tomatoes,Healthy,5,1,0,0,1,0
+2/10/2018,Breakfast,"Boar's Head - Gruyere Cheese, 1 oz",Gruyere Cheese,Unhealthy,110,0,9,7,150,0
+2/10/2018,Lunch,"Nasogastric - Veggie dumping s, 5.25 dumplings",Dumplings,Unhealthy,195,30,5,8,0,0
+2/10/2018,Lunch,"Chinese - Lo Mein, 1.5 cup",Lo Mein,Unhealthy,465,53,18,22,738,4
+2/10/2018,Dinner,"Chunk Light - Tuna Pack, 1 pouch (2.6oz/74g)",Fish,Healthy,70,0,1,17,300,0
+2/10/2018,Dinner,"Primal Kitchen - Avocado Oil Mayo, 0.9 tablespoon",Mayo,Unhealthy,90,0,11,0,113,0
+2/10/2018,Drinks,"Wine - Table, red, 1.5 glass (3.5 fl oz)",Red Wine,Unhealthy,111,3,0,0,8,0
+2/10/2018,Snacks,"Simply Nature - Vanilla Chip Chewy Granola Bar (Corrected 7/15), 1 bar",Granola Bar,Neutral,100,18,3,2,15,8
+2/10/2018,Snacks,"Kirlands - unsalted mixed nuts, 0.25 cup",Nuts,Healthy,190,7,16,5,0,2
+2/10/2018,Snacks,"Pure Protein - Whey Protein Vanilla, 1 scoop",Whey Protein,Neutral,150,8,3,25,100,2
+2/10/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1 cup",Whole Milk,Neutral,146,11,8,8,98,13
+2/10/2018,Snacks,"Simply Nature - Kale Chips, lemon and olive oil, 1.5 oz",Kale Chips,Healthy,195,27,9,2,585,2
+2/10/2018,Dessert,"Pas - Black and White Cookie, 1.5 oz",Cookies,Unhealthy,170,30,5,2,120,20
+2/10/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1 cup",Whole Milk,Neutral,146,11,8,8,98,13
+2/11/2018,Breakfast,"Egg - Egg, 2 large",Eggs,Healthy,143,1,10,13,142,0
+2/11/2018,Breakfast,"Boar's Head - Gruyere Cheese, 1 oz",Gruyere Cheese,Unhealthy,110,0,9,7,150,0
+2/11/2018,Breakfast,"Shredded hash browns - Shredded Hash Browns, 1 cup",Hash Browns,Unhealthy,70,16,0,1,0,0
+2/11/2018,Lunch,"Chunk Light - Tuna Pack, 1 pouch (2.6oz/74g)",Fish,Healthy,70,0,1,17,300,0
+2/11/2018,Lunch,"Primal Kitchen - Avocado Oil Mayo, 0.9 tablespoon",Mayo,Unhealthy,90,0,11,0,113,0
+2/11/2018,Dinner,"Oliviera - Tortillini, 1.73 cup",Tortillini,Unhealthy,621,115,8,23,"1,242",9
+2/11/2018,Dinner,"Homemade - Quick Tomato Sauce, 1 cup",Tomato Sauce,Neutral,120,12,5,4,88,8
+2/11/2018,Snacks,"Simply Nature - Vanilla Chip Chewy Granola Bar (Corrected 7/15), 1 bar",Granola Bar,Neutral,100,18,3,2,15,8
+2/11/2018,Snacks,"Kirlands - unsalted mixed nuts, 0.5 cup",Nuts,Healthy,380,14,32,10,0,4
+2/11/2018,Snacks,"Pringles - Sour Cream & Onion (1.41oz), 1 can",Potato Chips,Unhealthy,210,23,12,2,230,1
+2/11/2018,Snacks,"Pure Protein - Whey Protein Vanilla, 1 scoop",Whey Protein,Neutral,150,8,3,25,100,2
+2/11/2018,Snacks,"Milk - Whole, 3.25% milkfat, 0.75 cup",Whole Milk,Neutral,110,8,6,6,73,10
+2/11/2018,Dessert,"Pas - Black and White Cookie, 1.5 oz",Cookies,Unhealthy,170,30,5,2,120,20
+2/12/2018,Breakfast,"Stonyfield Organic - Smoothie, Strawberry Banana, 1 Bottle",Smoothie,Healthy,110,18,2,6,85,15
+2/12/2018,Lunch,"Trader Joe's - Paneer Tikki Masala, 255 g (1 tray/9 oz)",Tikka Masala,Unhealthy,430,40,23,14,730,1
+2/12/2018,Dinner,"Spps - Chicken Fried Rice, 0.84 cup",Fried Rice,Unhealthy,250,26,8,21,408,0
+2/12/2018,Dinner,"Rice - White, glutinous, cooked, 0.5 cup",White Rice,Neutral,84,18,0,2,4,0
+2/12/2018,Dinner,"Superior - Red Chili Oil, 0.25 cup(s)",Oil,Unhealthy,520,0,56,0,0,0
+2/12/2018,Dinner,"Yanshan - Liangfen jelly, 200 ml",Jelly Noodles,Neutral,76,17,0,0,0,0
+2/12/2018,Snacks,"Pure Protein - Whey Protein Vanilla, 1 scoop",Whey Protein,Neutral,150,8,3,25,100,2
+2/12/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1 cup",Whole Milk,Neutral,146,11,8,8,98,13
+2/12/2018,Snacks,"Simply Nature - Vanilla Chip Chewy Granola Bar (Corrected 7/15), 1 bar",Granola Bar,Neutral,100,18,3,2,15,8
+2/12/2018,Drinks,"Chipotle - Margarita, 24 fl. oz.",Margarita,Unhealthy,460,50,0,0,10,42
+2/12/2018,Dessert,"Pas - Black and White Cookie, 0.75 oz",Cookies,Unhealthy,85,15,3,1,60,10
+2/13/2018,Breakfast,"Egg - Egg, 2 large",Eggs,Healthy,143,1,10,13,142,0
+2/13/2018,Breakfast,"Ketchup - Heinz, 15 milliliter",Ketchup,Unhealthy,20,5,0,0,160,4
+2/13/2018,Breakfast,"Boar's Head - Gruyere Cheese, 1 oz",Gruyere Cheese,Unhealthy,110,0,9,7,150,0
+2/13/2018,Breakfast,"Warrens - House Fries (Small), 1.75 oz",French Fries,Unhealthy,120,10,5,1,1,0
+2/13/2018,Lunch,"Pringles - Barbecue Potato Chips, 15 chips",Potato Chips,Unhealthy,150,16,9,1,140,1
+2/13/2018,Lunch,"Chick Fila - Chicken Sandwich, 1 Sandwich",Chicken Sandwich,Neutral,440,41,18,28,"1,390",5
+2/13/2018,Lunch,"orzo salad - salad, 1 cup",Salad,Healthy,300,0,0,0,0,0
+2/13/2018,Dinner,"Spps - Chicken Fried Rice, 0.84 cup",Fried Rice,Unhealthy,250,26,8,21,408,0
+2/13/2018,Dinner,"Egg - Egg, 1 large",Eggs,Healthy,72,0,5,6,71,0
+2/13/2018,Dinner,"Pringles - Sour Cream & Onion (1.41oz), 1 can",Potato Chips,Unhealthy,210,23,12,2,230,1
+2/13/2018,Dessert,"Trader Joe's - Dried Blueberries, 0.25 cup",Candy,Unhealthy,140,33,0,1,0,14
+2/13/2018,Snacks,"hummus - Hummus, 10 tbsp",Hummus,Healthy,350,20,25,10,650,5
+2/13/2018,Snacks,"Crackers - Crackers, 24 crackers",Crackers,Neutral,390,21,15,12,600,6
+2/14/2018,Breakfast,"Egg - Egg, 2 large",Eggs,Healthy,143,1,10,13,142,0
+2/14/2018,Breakfast,"Tillamook - Cheddar Cheese - Medium, 1 oz (28g)",Cheddar Cheese,Unhealthy,110,0,9,7,170,0
+2/14/2018,Breakfast,"Generic - Salmon Locks, 1 oz",Fish,Healthy,55,0,3,12,280,0
+2/14/2018,Lunch,"Luke's - Lobster Roll, 0.5 sandwich",Lobster Roll,Neutral,150,14,10,14,0,0
+2/14/2018,Lunch,"Del Taco - Fish Taco, 1 taco",Tacos,Unhealthy,280,27,17,7,560,2
+2/14/2018,Lunch,"Baked Lay's - Sour Cream and Onion, 2 oz. (28g/About 14 chips)",Potato Chips,Unhealthy,260,48,7,4,380,6
+2/14/2018,Dinner,"Fitfoodmeals.com - Red Curry Beef, 1 container",Beef Curry,Neutral,665,97,14,11,0,0
+2/14/2018,Dinner,"Homemade - Veggie Fried Rice, 1.5 Cup",Fried Rice,Unhealthy,450,75,23,15,831,1
+2/14/2018,Dessert,"Outtakes - Chocolate Chip Cookies, 0.5 ea",Cookies,Unhealthy,85,12,4,1,60,8
+2/14/2018,Snacks,"Cape Cod - Chips, 0.6 package (53.2 g)",Potato Chips,Unhealthy,156,20,7,2,138,1
+2/14/2018,Snacks,"Oranges - Orange, 0.33 c",Oranges,Healthy,20,5,0,0,0,4
+2/14/2018,Dessert,"Outtakes - Chocolate Chip Cookies, 1 ea",Cookies,Unhealthy,170,24,7,2,120,15
+2/14/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1 cup",Whole Milk,Neutral,146,11,8,8,98,13
+2/14/2018,Dessert,"Blueberries, 0.5 cup",Blueberries,Healthy,43,11,0,1,1,8
+2/15/2018,Breakfast,"Egg - Egg, 2 large",Eggs,Healthy,143,1,10,13,142,0
+2/15/2018,Breakfast,"Generic - Salmon Locks, 1 oz",Fish,Healthy,55,0,3,12,280,0
+2/15/2018,Breakfast,"Tillamook - Cheddar Cheese - Medium, 1 oz (28g)",Cheddar Cheese,Unhealthy,110,0,9,7,170,0
+2/15/2018,Lunch,"Tortillas - Chips, 18 chips",Tortilla Chips,Unhealthy,280,38,14,4,0,0
+2/15/2018,Lunch,"Chipotle - Pico, 3.5 oz",Salsa,Neutral,20,4,0,1,470,3
+2/15/2018,Lunch,"Chipotle - Chicken Burrito Bowl, 1 Bowl",Burrito,Unhealthy,625,60,23,50,"1,425",5
+2/15/2018,Dinner,"Carraba's - Manicotti, 2.5 Noodles",Manicotti,Unhealthy,709,60,34,54,"1,523",8
+2/15/2018,Dinner,"Celentano - Ravioli, 8 ravioli",Ravioli,Unhealthy,460,72,12,18,500,4
+2/15/2018,Dinner,"Aladdin - Garlic Bread, 2 Slice",Garlic Bread,Unhealthy,276,27,17,5,486,1
+2/15/2018,Dessert,"Outtakes - Chocolate Chip Cookies, 1 ea",Cookies,Unhealthy,170,24,7,2,120,15
+2/16/2018,Breakfast,"Egg - Egg, 2 large",Eggs,Healthy,143,1,10,13,142,0
+2/16/2018,Lunch,"Trader Joe's - Chicken-Less Mandarin Orange Morsels, 0.7 container (20 pieces ea.)",Orange Chicken,Unhealthy,448,55,15,22,798,24
+2/16/2018,Lunch,"Cauliflower - Fried Rice, 0.93 cup",Cauliflower Rice,Healthy,76,10,2,6,608,1
+2/16/2018,Lunch,"Goya - Cannellini Beans, 0.5 cup (122 g)",Cannellini Beans,Healthy,80,18,0,6,390,0
+2/16/2018,Drinks,"Wine - Table, red, 2 glass (3.5 fl oz)",Red Wine,Unhealthy,148,4,0,0,10,0
+2/16/2018,Dinner,"Priano - Pesto, 4 Tbsp",Pesto,Unhealthy,300,4,28,4,720,0
+2/16/2018,Dinner,"Celentano - Ravioli, 9 ravioli",Ravioli,Unhealthy,518,81,14,20,563,5
+2/16/2018,Snacks,"Pure Protein - Whey Protein Vanilla, 1 scoop",Whey Protein,Neutral,150,8,3,25,100,2
+2/16/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1 cup",Whole Milk,Neutral,146,11,8,8,98,13
+2/17/2018,Breakfast,"Blueberries, 1 cup",Blueberries,Healthy,85,21,1,1,1,15
+2/17/2018,Lunch,"Fish - Salmon, Wild, Baked, 10 oz",Fish,Healthy,482,0,28,56,124,0
+2/17/2018,Lunch,"Spinach - Raw, 2 cup",Spinach,Healthy,14,2,0,2,47,0
+2/17/2018,Dinner,"Generic - Tofu Veggie Stirfry, 2.5 serving 350g",Tofu,Healthy,625,51,33,27,25,18
+2/17/2018,Drinks,"Boulevard - Unfiltered Wheat Beer, 12 oz",Beer,Unhealthy,135,17,0,0,0,0
+2/17/2018,Snacks,"Pure Protein - Whey Protein Vanilla, 1 scoop",Whey Protein,Neutral,150,8,3,25,100,2
+2/17/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1 cup",Whole Milk,Neutral,146,11,8,8,98,13
+2/17/2018,Dessert,"Starbucks - Brownie, 1.33 brownie",Brownie,Unhealthy,545,61,32,8,100,40
+2/17/2018,Snacks,"Milk - Whole, 3.25% milkfat, 2 cup",Whole Milk,Neutral,293,22,16,16,195,26
+2/18/2018,Breakfast,"Cuties - Clementines, 168 g (Approx 2)",Oranges,Healthy,80,17,1,1,0,13
+2/18/2018,Lunch,"Cooked Mussels - Mussels, 4 Medium Mussel",Mussels,Neutral,48,1,2,4,216,0
+2/18/2018,Lunch,"Great Value - Fish Fillets, 2 f fillets",Fish,Healthy,240,19,12,9,750,1
+2/18/2018,Lunch,"Member's Mark - Angus Roast Beef-2 Slices, 50 slices",Beef,Neutral,575,0,0,100,"2,325",0
+2/18/2018,Lunch,"Sushi - Edamane, 5 oz",Edamame,Healthy,100,9,3,7,260,2
+2/18/2018,Dinner,"Goya - Cannellini Beans, 0.25 cup (122 g)",Cannellini Beans,Healthy,40,9,0,3,195,0
+2/18/2018,Dinner,"Morrison - Brown Rice, 0.3 cup",Brown Rice,Healthy,74,15,1,2,24,0
+2/18/2018,Dinner,"Black Beans, 0.25 cup",Black Beans,Healthy,55,10,1,4,5,1
+2/18/2018,Dinner,"Smoked Cheese - Smoked Cheddar Cheese, 2 oz or 28grams",Cheddar Cheese,Unhealthy,120,0,10,8,200,0
+2/18/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1 cup",Whole Milk,Neutral,146,11,8,8,98,13
+2/18/2018,Dessert,"Innofoods - Coconut Clusters, 60 g",Coconut Clusters,Neutral,320,22,26,6,120,14
+2/18/2018,Snacks,"Barber Foods - Chicken Parmesan, 0.9 piece",Chicken Parmesan,Unhealthy,225,12,13,18,441,2
+2/18/2018,Snacks,"Smoked Cheese - Smoked Cheddar Cheese, 2 oz or 28grams",Cheddar Cheese,Unhealthy,120,0,10,8,200,0
+2/18/2018,Snacks,"Homemade - Quick Tomato Sauce, 0.5 cup",Tomato Sauce,Neutral,60,6,2,2,44,4
+2/18/2018,Snacks,"Pure Protein - Whey Protein Vanilla, 1 scoop",Whey Protein,Neutral,150,8,3,25,100,2
+2/18/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1 cup",Whole Milk,Neutral,146,11,8,8,98,13
+2/19/2018,Breakfast,"Banana - Banana, 1 medium banana (126 g)",Banana,Healthy,105,27,0,1,1,14
+2/19/2018,Lunch,"Barber Foods - Chicken Parmesan, 2.3 piece",Orange Chicken,Unhealthy,575,30,32,46,"1,127",5
+2/19/2018,Lunch,"Pasta - Angel Hair Pasta, 1 oz",Pasta,Unhealthy,100,21,1,4,0,1
+2/19/2018,Lunch,"Homemade - Quick Tomato Sauce, 0.5 cup",Tomato Sauce,Neutral,60,6,2,2,44,4
+2/19/2018,Lunch,"Cheese - Mozzerella, 1 oz",Mozzerella Cheese,Unhealthy,70,0,6,6,177,0
+2/19/2018,Dinner,"Chipotle (Chicken & Steak) - Burrito, 1 burrito",Burrito,Unhealthy,"1,270",131,48,82,"2,590",9
+2/19/2018,Snacks,"Pure Protein - Whey Protein Vanilla, 1 scoop",Whey Protein,Neutral,150,8,3,25,100,2
+2/19/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1 cup",Whole Milk,Neutral,146,11,8,8,98,13
+2/20/2018,Breakfast,"Banana - Banana, 1 medium banana (126 g)",Banana,Healthy,105,27,0,1,1,14
+2/20/2018,Breakfast,"Milk - Whole, 3.25% milkfat, 1.25 cup",Whole Milk,Neutral,183,14,10,10,122,16
+2/20/2018,Lunch,"Mrs.t's - Perogies, 14 pieces",Perogies,Unhealthy,770,147,11,25,"1,820",4
+2/20/2018,Lunch,"Homemade - Quick Tomato Sauce, 1 cup",Tomato Sauce,Neutral,120,12,5,4,88,8
+2/20/2018,Dinner,"Ohiohealth - Healthy Buffalo Cauliflower Bites, 3 Cup",Cauliflower Bites,Healthy,141,15,6,4,0,0
+2/20/2018,Dinner,"Pasta - Angel Hair Pasta, 1 oz",Pasta,Unhealthy,100,21,1,4,0,1
+2/20/2018,Dinner,"Priano - Pesto, 2 Tbsp",Pesto,Unhealthy,150,2,14,2,360,0
+2/20/2018,Snacks,"Kirlands - unsalted mixed nuts, 0.5 cup",Nuts,Healthy,380,14,32,10,0,4
+2/20/2018,Dessert,"Innofoods - Coconut Clusters, 60 g",Coconut Clusters,Neutral,320,22,26,6,120,14
+2/21/2018,Breakfast,"Pizza - Meat, 2 slice",Pizza,Unhealthy,372,8,26,29,"1,174",6
+2/21/2018,Lunch,"Pizza - Meat, 2 slice",Pizza,Unhealthy,372,8,26,29,"1,174",6
+2/21/2018,Lunch,"Golden potatoes - Golden, 148 g/5.3oz",Potatoes,Neutral,110,26,0,3,0,1
+2/21/2018,Lunch,"Asparagus - Raw, 1 cup",Asparagus,Healthy,27,5,0,3,3,3
+2/21/2018,Dinner,"organic - grass fed beef, 0.5 lb(s)",Beef,Neutral,290,0,10,50,180,0
+2/21/2018,Dinner,"Pasta - Angel Hair Pasta, 2 oz",Pasta,Unhealthy,200,42,1,7,0,2
+2/21/2018,Dinner,"Broccoli, raw, 0.53 cup chopped",Broccoli,Healthy,16,3,0,1,16,1
+2/21/2018,Dinner,"Onions, raw, 0.33 cup, chopped",Onions,Healthy,21,5,0,1,2,2
+2/21/2018,Dinner,"Cashews - Cashews, 0.25 cup",Nuts,Healthy,170,7,14,6,0,0
+2/21/2018,Snacks,"Simply Nature - Vanilla Chip Chewy Granola Bar (Corrected 7/15), 2 bar",Granola Bar,Neutral,200,36,5,4,30,16
+2/21/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1 cup",Whole Milk,Neutral,146,11,8,8,98,13
+2/21/2018,Snacks,"Banana - Banana, 1 medium banana (126 g)",Banana,Healthy,105,27,0,1,1,14
+2/21/2018,Snacks,"Cashews - Cashews, 0.5 cup",Nuts,Healthy,340,14,28,12,0,0
+2/22/2018,Breakfast,"Egg - Egg, 2 large",Eggs,Healthy,143,1,10,13,142,0
+2/22/2018,Breakfast,"Tillamook - Sliced Swiss Cheese, 1 slice (28 g)",Swiss Cheese,Unhealthy,110,1,8,9,60,0
+2/22/2018,Breakfast,"Hannah - Taboule, 0.5 cup",Salad,Healthy,120,13,7,3,490,3
+2/22/2018,Lunch,"Homemade - Baked Chicken Wings, 7 wing",Chicken Wings,Unhealthy,602,0,41,56,847,0
+2/22/2018,Lunch,"Blue Cheese Dressing - Chunky, 2 Tbsp",Blue Cheese,Unhealthy,110,1,10,2,200,1
+2/22/2018,Dinner,"Celentano - Ravioli, 10 ravioli",Ravioli,Unhealthy,575,90,15,23,625,5
+2/22/2018,Dinner,"Homemade - Quick Tomato Sauce, 1.5 cup",Tomato Sauce,Neutral,180,18,7,6,131,12
+2/22/2018,Dinner,"chickpeas - Chickpeas, 2 tablespoon",Chickpeas,Healthy,92,16,2,5,6,3
+2/22/2018,Snacks,"Simply Nature - Vanilla Chip Chewy Granola Bar (Corrected 7/15), 1 bar",Granola Bar,Neutral,100,18,3,2,15,8
+2/22/2018,Snacks,"Pure Protein - Whey Protein Vanilla, 1 scoop",Whey Protein,Neutral,150,8,3,25,100,2
+2/22/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1 cup",Whole Milk,Neutral,146,11,8,8,98,13
+2/22/2018,Snacks,"Kind - Dark Chocolate Chunk Bar, 1 bar",Granola Bar,Neutral,150,25,5,3,65,9
+2/22/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1.5 cup",Whole Milk,Neutral,220,17,12,12,146,19
+2/22/2018,Dessert,"Innofoods - Coconut Clusters, 22.5 g",Coconut Clusters,Neutral,120,8,10,2,45,5
+2/22/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1 cup",Whole Milk,Neutral,146,11,8,8,98,13
+2/23/2018,Breakfast,"Banana - Banana, 1 medium banana (126 g)",Banana,Healthy,105,27,0,1,1,14
+2/23/2018,Breakfast,"Pure Protein - Whey Protein Vanilla, 1 scoop",Whey Protein,Neutral,150,8,3,25,100,2
+2/23/2018,Breakfast,"Milk - Whole, 3.25% milkfat, 1.25 cup",Whole Milk,Neutral,183,14,10,10,122,16
+2/23/2018,Lunch,"Wegmans - Organic Ciabatta Roll, 1 Roll (78g)",Ciabatta Roll,Neutral,210,39,3,8,370,1
+2/23/2018,Lunch,"ground Turkey - Turkey, 4 oz",Ground Turkey,Neutral,160,1,8,22,85,0
+2/23/2018,Lunch,"Mayo - Mayo, 2 tablespoon",Mayo,Unhealthy,90,2,9,0,220,0
+2/23/2018,Lunch,"Giorgio - Mushrooms, 3 oz",Mushrooms,Healthy,20,3,0,2,10,1
+2/23/2018,Lunch,"Spinach - Raw, 0.33 cup",Spinach,Healthy,2,0,0,0,8,0
+2/23/2018,Lunch,"Tillamook - Sliced Swiss Cheese, 1 slice (28 g)",Swiss Cheese,Unhealthy,110,1,8,9,60,0
+2/23/2018,Dinner,"the China - Chicken Lomein, 2 cup",Lo Mein,Unhealthy,556,66,18,31,"1,072",5
+2/23/2018,Dessert,"Michigan Dining - Cream Puffs, 2 Cream Puff",Cream Puffs,Unhealthy,125,13,7,4,245,0
+2/23/2018,Dessert,"Flan Custard - (Flan), 0.75 cup (153 g)",Custard,Unhealthy,335,53,9,11,122,53
+2/23/2018,Dessert,"Croissants - Croissants, 1 croissant",Croissant,Unhealthy,100,32,17,5,350,4
+2/23/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1.25 cup",Whole Milk,Neutral,183,14,10,10,122,16
+2/24/2018,Breakfast,"Egg - Egg, 2 large",Eggs,Healthy,143,1,10,13,142,0
+2/24/2018,Breakfast,"Boar's Head - Gruyere Cheese, 1 oz",Gruyere Cheese,Unhealthy,110,0,9,7,150,0
+2/24/2018,Breakfast,"Shredded hash browns - Shredded Hash Browns, 1 cup",Hash Browns,Unhealthy,70,16,0,1,0,0
+2/24/2018,Lunch,"Chunk Light - Tuna Pack, 1 pouch (2.6oz/74g)",Fish,Healthy,70,0,1,17,300,0
+2/24/2018,Lunch,"Primal Kitchen - Avocado Oil Mayo, 0.9 tablespoon",Mayo,Unhealthy,90,0,11,0,113,0
+2/24/2018,Dinner,"Oliviera - Tortillini, 1.73 cup",Tortillini,Unhealthy,621,115,8,23,"1,242",9
+2/24/2018,Dinner,"Homemade - Quick Tomato Sauce, 1 cup",Tomato Sauce,Neutral,120,12,5,4,88,8
+2/24/2018,Snacks,"Simply Nature - Vanilla Chip Chewy Granola Bar (Corrected 7/15), 1 bar",Granola Bar,Neutral,100,18,3,2,15,8
+2/24/2018,Snacks,"Kirlands - unsalted mixed nuts, 0.5 cup",Nuts,Healthy,380,14,32,10,0,4
+2/24/2018,Snacks,"Pringles - Sour Cream & Onion (1.41oz), 1 can",Potato Chips,Unhealthy,210,23,12,2,230,1
+2/24/2018,Snacks,"Pure Protein - Whey Protein Vanilla, 1 scoop",Whey Protein,Neutral,150,8,3,25,100,2
+2/24/2018,Snacks,"Milk - Whole, 3.25% milkfat, 0.75 cup",Whole Milk,Neutral,110,8,6,6,73,10
+2/24/2018,Dessert,"Pas - Black and White Cookie, 1.5 oz",Cookies,Unhealthy,170,30,5,2,120,20
+2/25/2018,Breakfast,"Egg - Egg, 2 large",Eggs,Healthy,143,1,10,13,142,0
+2/25/2018,Breakfast,"Tillamook - Cheddar Cheese - Medium, 1 oz (28g)",Cheddar Cheese,Unhealthy,110,0,9,7,170,0
+2/25/2018,Breakfast,"Generic - Salmon Locks, 1 oz",Fish,Healthy,55,0,3,12,280,0
+2/25/2018,Lunch,"Luke's - Lobster Roll, 0.5 sandwich",Lobster Roll,Neutral,150,14,10,14,0,0
+2/25/2018,Lunch,"Del Taco - Fish Taco, 1 taco",Tacos,Unhealthy,280,27,17,7,560,2
+2/25/2018,Lunch,"Baked Lay's - Sour Cream and Onion, 2 oz. (28g/About 14 chips)",Potato Chips,Unhealthy,260,48,7,4,380,6
+2/25/2018,Dinner,"Fitfoodmeals.com - Red Curry Beef, 1 container",Beef Curry,Neutral,665,97,14,11,0,0
+2/25/2018,Dinner,"Homemade - Veggie Fried Rice, 1.5 Cup",Fried Rice,Unhealthy,450,75,23,15,831,1
+2/25/2018,Dessert,"Outtakes - Chocolate Chip Cookies, 0.5 ea",Cookies,Unhealthy,85,12,4,1,60,8
+2/25/2018,Snacks,"Cape Cod - Chips, 0.6 package (53.2 g)",Potato Chips,Unhealthy,156,20,7,2,138,1
+2/25/2018,Snacks,"Oranges - Orange, 0.33 c",Oranges,Healthy,20,5,0,0,0,4
+2/25/2018,Dessert,"Outtakes - Chocolate Chip Cookies, 1 ea",Cookies,Unhealthy,170,24,7,2,120,15
+2/25/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1 cup",Whole Milk,Neutral,146,11,8,8,98,13
+2/25/2018,Dessert,"Blueberries, 0.5 cup",Blueberries,Healthy,43,11,0,1,1,8
+2/26/2018,Breakfast,"Cuties - Clementines, 168 g (Approx 2)",Oranges,Healthy,80,17,1,1,0,13
+2/26/2018,Lunch,"Cooked Mussels - Mussels, 4 Medium Mussel",Mussels,Neutral,48,1,2,4,216,0
+2/26/2018,Lunch,"Great Value - Fish Fillets, 2 f fillets",Fish,Healthy,240,19,12,9,750,1
+2/26/2018,Lunch,"Member's Mark - Angus Roast Beef-2 Slices, 50 slices",Beef,Neutral,575,0,0,100,"2,325",0
+2/26/2018,Lunch,"Sushi - Edamane, 5 oz",Edamame,Healthy,100,9,3,7,260,2
+2/26/2018,Dinner,"Goya - Cannellini Beans, 0.25 cup (122 g)",Cannellini Beans,Healthy,40,9,0,3,195,0
+2/26/2018,Dinner,"Morrison - Brown Rice, 0.3 cup",Brown Rice,Healthy,74,15,1,2,24,0
+2/26/2018,Dinner,"Black Beans, 0.25 cup",Black Beans,Healthy,55,10,1,4,5,1
+2/26/2018,Dinner,"Smoked Cheese - Smoked Cheddar Cheese, 2 oz or 28grams",Cheddar Cheese,Unhealthy,120,0,10,8,200,0
+2/26/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1 cup",Whole Milk,Neutral,146,11,8,8,98,13
+2/26/2018,Dessert,"Innofoods - Coconut Clusters, 60 g",Coconut Clusters,Neutral,320,22,26,6,120,14
+2/26/2018,Snacks,"Barber Foods - Chicken Parmesan, 0.9 piece",Chicken Parmesan,Unhealthy,225,12,13,18,441,2
+2/26/2018,Snacks,"Smoked Cheese - Smoked Cheddar Cheese, 2 oz or 28grams",Cheddar Cheese,Unhealthy,120,0,10,8,200,0
+2/26/2018,Snacks,"Homemade - Quick Tomato Sauce, 0.5 cup",Tomato Sauce,Neutral,60,6,2,2,44,4
+2/26/2018,Snacks,"Pure Protein - Whey Protein Vanilla, 1 scoop",Whey Protein,Neutral,150,8,3,25,100,2
+2/26/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1 cup",Whole Milk,Neutral,146,11,8,8,98,13
+2/27/2018,Breakfast,"Banana - Banana, 1 medium banana (126 g)",Banana,Healthy,105,27,0,1,1,14
+2/27/2018,Lunch,"Barber Foods - Chicken Parmesan, 2.3 piece",Orange Chicken,Unhealthy,575,30,32,46,"1,127",5
+2/27/2018,Lunch,"Pasta - Angel Hair Pasta, 1 oz",Pasta,Unhealthy,100,21,1,4,0,1
+2/27/2018,Lunch,"Homemade - Quick Tomato Sauce, 0.5 cup",Tomato Sauce,Neutral,60,6,2,2,44,4
+2/27/2018,Lunch,"Cheese - Mozzerella, 1 oz",Mozzerella Cheese,Unhealthy,70,0,6,6,177,0
+2/27/2018,Dinner,"Chipotle (Chicken & Steak) - Burrito, 1 burrito",Burrito,Unhealthy,"1,270",131,48,82,"2,590",9
+2/27/2018,Snacks,"Pure Protein - Whey Protein Vanilla, 1 scoop",Whey Protein,Neutral,150,8,3,25,100,2
+2/27/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1 cup",Whole Milk,Neutral,146,11,8,8,98,13
+2/28/2018,Breakfast,"Egg - Egg, 2 large",Eggs,Healthy,143,1,10,13,142,0
+2/28/2018,Breakfast,"Tillamook - Cheddar Cheese - Medium, 1 oz (28g)",Cheddar Cheese,Unhealthy,110,0,9,7,170,0
+2/28/2018,Breakfast,"Generic - Salmon Locks, 1 oz",Fish,Healthy,55,0,3,12,280,0
+2/28/2018,Lunch,"Luke's - Lobster Roll, 0.5 sandwich",Lobster Roll,Neutral,150,14,10,14,0,0
+2/28/2018,Lunch,"Del Taco - Fish Taco, 1 taco",Tacos,Unhealthy,280,27,17,7,560,2
+2/28/2018,Lunch,"Baked Lay's - Sour Cream and Onion, 2 oz. (28g/About 14 chips)",Potato Chips,Unhealthy,260,48,7,4,380,6
+2/28/2018,Dinner,"Fitfoodmeals.com - Red Curry Beef, 1 container",Beef Curry,Neutral,665,97,14,11,0,0
+2/28/2018,Dinner,"Homemade - Veggie Fried Rice, 1.5 Cup",Fried Rice,Unhealthy,450,75,23,15,831,1
+2/28/2018,Dessert,"Outtakes - Chocolate Chip Cookies, 0.5 ea",Cookies,Unhealthy,85,12,4,1,60,8
+2/28/2018,Snacks,"Cape Cod - Chips, 0.6 package (53.2 g)",Potato Chips,Unhealthy,156,20,7,2,138,1
+2/28/2018,Snacks,"Oranges - Orange, 0.33 c",Oranges,Healthy,20,5,0,0,0,4
+2/28/2018,Dessert,"Outtakes - Chocolate Chip Cookies, 1 ea",Cookies,Unhealthy,170,24,7,2,120,15
+2/28/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1 cup",Whole Milk,Neutral,146,11,8,8,98,13
+2/28/2018,Dessert,"Blueberries, 0.5 cup",Blueberries,Healthy,43,11,0,1,1,8
+3/1/2018,Breakfast,"Banana - Banana, 1 medium banana (126 g)",Banana,Healthy,105,27,0,1,1,14
+3/1/2018,Breakfast,"Pure Protein - Whey Protein Vanilla, 1 scoop",Whey Protein,Neutral,150,8,3,25,100,2
+3/1/2018,Breakfast,"Milk - Whole, 3.25% milkfat, 1.25 cup",Whole Milk,Neutral,183,14,10,10,122,16
+3/1/2018,Lunch,"Wegmans - Organic Ciabatta Roll, 1 Roll (78g)",Ciabatta Roll,Neutral,210,39,3,8,370,1
+3/1/2018,Lunch,"ground Turkey - Turkey, 4 oz",Ground Turkey,Neutral,160,1,8,22,85,0
+3/1/2018,Lunch,"Mayo - Mayo, 2 tablespoon",Mayo,Unhealthy,90,2,9,0,220,0
+3/1/2018,Lunch,"Giorgio - Mushrooms, 3 oz",Mushrooms,Healthy,20,3,0,2,10,1
+3/1/2018,Lunch,"Spinach - Raw, 0.33 cup",Spinach,Healthy,2,0,0,0,8,0
+3/1/2018,Lunch,"Tillamook - Sliced Swiss Cheese, 1 slice (28 g)",Swiss Cheese,Unhealthy,110,1,8,9,60,0
+3/1/2018,Dinner,"the China - Chicken Lomein, 2 cup",Lo Mein,Unhealthy,556,66,18,31,"1,072",5
+3/1/2018,Dessert,"Michigan Dining - Cream Puffs, 2 Cream Puff",Cream Puffs,Unhealthy,125,13,7,4,245,0
+3/1/2018,Dessert,"Flan Custard - (Flan), 0.75 cup (153 g)",Custard,Unhealthy,335,53,9,11,122,53
+3/1/2018,Dessert,"Croissants - Croissants, 1 croissant",Croissant,Unhealthy,100,32,17,5,350,4
+3/1/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1.25 cup",Whole Milk,Neutral,183,14,10,10,122,16
+3/2/2018,Breakfast,"Egg - Egg, 1 large",Eggs,Healthy,72,0,5,6,71,0
+3/2/2018,Breakfast,"Tillamook - Sliced Swiss Cheese, 1 slice (28 g)",Swiss Cheese,Unhealthy,110,1,8,9,60,0
+3/2/2018,Breakfast,"ham - Honey Ham, 4 slices",Ham,Neutral,60,3,2,9,650,2
+3/2/2018,Breakfast,"English muffin - English Muffin, 1 muffin",English Muffin,Unhealthy,120,25,1,4,200,1
+3/2/2018,Breakfast,"Ketchup - Heinz, 15 milliliter",Ketchup,Unhealthy,20,5,0,0,160,4
+3/2/2018,Lunch,"Chinese - Teriyaki Chicken Stick, 2 Skewer",Teriyaki Chicken,Neutral,218,9,3,36,"2,244",5
+3/2/2018,Lunch,"Grilled Veggies - Veggies, 2 cup",Veggies,Healthy,140,12,6,12,220,0
+3/2/2018,Dinner,"Primefoods - Steamed Pork Buns, 3 piece",Pork Buns,Unhealthy,390,69,8,15,330,21
+3/2/2018,Dinner,"Celentano - Ravioli, 4 ravioli",Ravioli,Unhealthy,230,36,6,9,250,2
+3/2/2018,Dinner,"Priano - Pesto, 2 Tbsp",Pesto,Unhealthy,150,2,14,2,360,0
+3/2/2018,Drinks,"Blue Moon - Wheat Ale, 12 oz",Beer,Unhealthy,168,14,0,2,15,0
+3/2/2018,Snacks,"Chips - Popped Bbq, 20 chips",Potato Chips,Unhealthy,120,18,4,2,190,3
+3/2/2018,Dessert,"Blueberries, 1 cup",Blueberries,Healthy,85,21,1,1,1,15
+3/2/2018,Dessert,"Strawberries, raw, 1 cup, halves",Strawberries,Healthy,49,12,0,1,2,7
+3/2/2018,Snacks,"Pringles - Sour Cream & Onion (1.41oz), 1 can",Potato Chips,Unhealthy,210,23,12,2,230,1
+3/3/2018,Breakfast,"Walmart - Greek Nonfat Yogurt, 0.5 cup",Greek Yogurt,Healthy,60,5,0,12,58,5
+3/3/2018,Breakfast,"Blueberries, 0.5 cup",Blueberries,Healthy,43,11,0,1,1,8
+3/3/2018,Breakfast,"Flax Seed - Flax Seeds, 0.5 tbsp",Flax Seeds,Healthy,35,2,3,1,0,0
+3/3/2018,Breakfast,"Chia Seed, 0.5 tbsp",Chia Seeds,Healthy,30,3,2,2,0,0
+3/3/2018,Lunch,"Chinese - Teriyaki Chicken Stick, 2 Skewer",Teriyaki Chicken,Neutral,218,9,3,36,"2,244",5
+3/3/2018,Lunch,"Grilled Veggies - Veggies, 2 cup",Veggies,Healthy,140,12,6,12,220,0
+3/3/2018,Dinner,"Spaghetti Warehouse - Spaghetti With Tomato Sauce, 2 dinner size",Speghetti,Neutral,340,156,6,30,610,0
+3/3/2018,Dinner,"Grilled Veggies - Veggies, 2 cup",Veggies,Healthy,140,12,6,12,220,0
+3/3/2018,Drinks,"Wine - Table, red, 4 glass (3.5 fl oz)",Red Wine,Unhealthy,297,7,0,1,21,0
+3/3/2018,Snacks,"Health Warrior - Chia Bar Acai, 1 bar",Health Bar,Neutral,100,14,5,3,45,5
+3/3/2018,Snacks,"Tostitos - Chips & Salsa, 26 chips",Chips & Salsa,Unhealthy,300,36,14,4,0,0
+3/3/2018,Drinks,"Blue Moon - Wheat Ale, 36 oz",Beer,Unhealthy,504,42,0,6,45,0
+3/3/2018,Snacks,"Pringles - Sour Cream & Onion (1.41oz), 0.67 can",Potato Chips,Unhealthy,140,15,8,1,153,1
+3/4/2018,Breakfast,"Egg - Egg, 1 large",Eggs,Healthy,72,0,5,6,71,0
+3/4/2018,Breakfast,"Tillamook - Sliced Swiss Cheese, 1 slice (28 g)",Swiss Cheese,Unhealthy,110,1,8,9,60,0
+3/4/2018,Breakfast,"ham - Honey Ham, 4 slices",Ham,Neutral,60,3,2,9,650,2
+3/4/2018,Breakfast,"English muffin - English Muffin, 1 muffin",English Muffin,Unhealthy,120,25,1,4,200,1
+3/4/2018,Breakfast,"Ketchup - Heinz, 15 milliliter",Ketchup,Unhealthy,20,5,0,0,160,4
+3/4/2018,Lunch,"Silk Creamy Cashew - Cashew Milk, 1.5 cup",Silk Milk,Neutral,90,14,4,1,255,11
+3/4/2018,Lunch,"Brothers - Mozzarella Cheese Sticks, 3 Stick",Mozzarella Sticks,Unhealthy,306,24,18,15,738,0
+3/4/2018,Lunch,"Gfs - Spanakopita, 2.25 pieces",Spanakopita,Unhealthy,128,13,8,2,135,1
+3/4/2018,Lunch,"Taokaenoi - crispy seaweed spicy, 72 gram",Seaweed,Healthy,260,10,20,12,0,0
+3/4/2018,Dinner,"Cici's Pizza - Ham Pizza, 4 slice",Pizza,Unhealthy,576,80,13,20,972,0
+3/4/2018,Snacks,"Pure Protein - Whey Protein Vanilla, 1 scoop",Whey Protein,Neutral,150,8,3,25,100,2
+3/4/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1.25 cup",Whole Milk,Neutral,183,14,10,10,122,16
+3/4/2018,Dessert,"Blueberries, 1 cup",Blueberries,Healthy,85,21,1,1,1,15
+3/5/2018,Breakfast,"Walmart - Greek Nonfat Yogurt, 0.5 cup",Greek Yogurt,Healthy,60,5,0,12,58,5
+3/5/2018,Breakfast,"Blueberries, 0.5 cup",Blueberries,Healthy,43,11,0,1,1,8
+3/5/2018,Breakfast,"Flax Seed - Flax Seeds, 0.5 tbsp",Flax Seeds,Healthy,35,2,3,1,0,0
+3/5/2018,Breakfast,"Chia Seed, 0.5 tbsp",Chia Seeds,Healthy,30,3,2,2,0,0
+3/5/2018,Lunch,"Jersey Mike's - #7 Regular on Wheat, 1 sandwich- regular",Turkey Sandwich,Neutral,530,67,12,40,"1,580",8
+3/5/2018,Lunch,"Jersey Mike's - Mike's Way, 1 Regular",Condiments,Neutral,290,9,28,2,120,5
+3/5/2018,Dinner,"Allrecipes.com - Bhindi Masala, 1/2 recipe",Bhindi Masala,Healthy,200,32,8,7,"1,194",0
+3/5/2018,Dinner,"Cici's Pizza - Ham Pizza, 2 slice",Pizza,Unhealthy,288,40,6,10,486,0
+3/5/2018,Snacks,"Health Warrior - Chia Bar Acai, 1 bar",Health Bar,Neutral,100,14,5,3,45,5
+3/5/2018,Drinks,"Blue Moon - Wheat Ale, 24 oz",Beer,Unhealthy,336,28,0,4,30,0
+3/5/2018,Snacks,"Chips - Popped Bbq, 20 chips",Potato Chips,Unhealthy,120,18,4,2,190,3
+3/5/2018,Snacks,"Pringles - Barbecue Potato Chips, 15 chips",Potato Chips,Unhealthy,150,16,9,1,140,1
+3/6/2018,Breakfast,"ensure - Vanilla, 1 bottle",Ensure,Unhealthy,250,40,6,9,200,23
+3/6/2018,Lunch,"Subway Meatball Sub - 6"" Meatball Sub, 598 g",Meatball Sub,Unhealthy,960,118,36,42,"1,840",24
+3/6/2018,Dinner,"Cici's Pizza - Ham Pizza, 2 slice",Pizza,Unhealthy,288,40,6,10,486,0
+3/6/2018,Dinner,"Brothers - Mozzarella Cheese Sticks, 6 Stick",Mozzarella Sticks,Unhealthy,612,48,36,30,"1,476",0
+3/6/2018,Snacks,"Health Warrior - Chia Bar Acai, 1 bar",Health Bar,Neutral,100,14,5,3,45,5
+3/6/2018,Drinks,"Blue Moon - Wheat Ale, 36 oz",Beer,Unhealthy,504,42,0,6,45,0
+3/6/2018,Snacks,"auntie Anne's - Pretzel Dog, 1 pcs",Pretzel Dog,Unhealthy,360,33,20,11,740,5
+3/6/2018,Snacks,"Pringles - Barbecue Potato Chips, 22.5 chips",Potato Chips,Unhealthy,225,24,14,2,210,2
+3/7/2018,Breakfast,"Tesco - Golden Kiwi Fruit, 0.5 Fruit",Kiwi,Healthy,22,4,0,0,0,0
+3/7/2018,Lunch,"Campbell's - Chicken Noodle Soup, 1.25 cup",Chicken Noodle Soup,Neutral,150,20,5,8,"2,225",3
+3/7/2018,Dinner,"Journey to India / Aldi - Tikka Masala, 0.81 cup",Tikka Masala,Unhealthy,228,20,15,0,"1,073",13
+3/7/2018,Dinner,"Tofu - Tofu, 3 oz",Tofu,Healthy,60,1,7,10,0,0
+3/7/2018,Dinner,"Giorgio - Mushrooms, 3 oz",Mushrooms,Healthy,20,3,0,2,10,1
+3/7/2018,Dinner,"Allrecipes.com - Bhindi Masala, 1/12 recipe",Bhindi Masala,Healthy,33,5,1,1,199,0
+3/7/2018,Dinner,"Trader Joes - Garlic Nan Bread, 1 piece",Garlic Bread,Unhealthy,230,37,4,4,330,0
+3/7/2018,Dinner,"Tilapia Fillets - Tilapia, 1 Fillet",Fish,Healthy,100,0,3,20,75,0
+3/7/2018,Dinner,"Onions, raw, 0.5 cup, chopped",Onions,Healthy,32,7,0,1,3,3
+3/7/2018,Drinks,"Wine - Table, red, 1.5 glass (3.5 fl oz)",Red Wine,Unhealthy,111,3,0,0,8,0
+3/7/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1.25 cup",Whole Milk,Neutral,183,14,10,10,122,16
+3/7/2018,Snacks,"Pure Protein - Whey Protein Vanilla, 1 scoop",Whey Protein,Neutral,150,8,3,25,100,2
+3/7/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1.25 cup",Whole Milk,Neutral,183,14,10,10,122,16
+3/7/2018,Snacks,"Cliff Bar - Blueberry Crisp, 1 Bars (68g)",Health Bar,Neutral,250,44,5,9,180,22
+3/7/2018,Snacks,"Milk - Whole, 3.25% milkfat, 0.33 cup",Whole Milk,Neutral,49,4,3,3,33,4
+3/7/2018,Snacks,"Wonderful - Pastachios, 0.63 cup",Nuts,Healthy,188,10,16,8,169,3
+3/7/2018,Snacks,"Popcorn - Popcorn, 2 cup",Popcorn,Neutral,110,13,6,2,30,2
+3/8/2018,Breakfast,"Beast - Banana Pancakes, 4.5 pancakes",Banana Pancakes,Unhealthy,473,59,15,30,633,15
+3/8/2018,Breakfast,"Syrup, maple, Canadian, 20.0 milliliter",Maple Syrup,Unhealthy,72,18,0,0,2,16
+3/8/2018,Lunch,"Wegmans - Organic Ciabatta Roll, 1 Roll (78g)",Ciabatta Roll,Neutral,210,39,3,8,370,1
+3/8/2018,Lunch,"Mayo - Mayo, 2 tablespoon",Mayo,Unhealthy,90,2,9,0,220,0
+3/8/2018,Lunch,"Giorgio - Mushrooms, 3 oz",Mushrooms,Healthy,20,3,0,2,10,1
+3/8/2018,Lunch,"Spinach - Raw, 0.33 cup",Spinach,Healthy,2,0,0,0,8,0
+3/8/2018,Lunch,"Boarshead - Chipotle Gouda Cheese, 1 oz",Gouda Cheese,Unhealthy,100,0,8,6,240,0
+3/8/2018,Lunch,"ground Turkey - Turkey, 3 oz",Ground Turkey,Neutral,120,1,6,17,64,0
+3/8/2018,Dinner,"Tortillas - Chips, 22.5 chips",Tortilla Chips,Unhealthy,350,48,18,5,0,0
+3/8/2018,Dinner,"Sauce - Salsa, 1 cup",Salsa,Neutral,70,16,0,4,"1,554",8
+3/8/2018,Dinner,"Rice - White, glutinous, cooked, 1 cup",White Rice,Neutral,169,37,0,4,9,0
+3/8/2018,Dinner,"Tofu - Tofu, 3 oz",Tofu,Healthy,60,1,7,10,0,0
+3/8/2018,Dinner,"Bush's Beans - Texas Ranchero, 0.5 cup",Ranchero Beans,Neutral,120,20,2,6,630,2
+3/8/2018,Dinner,"Beans - Red Beans, 0.33 cup",Red Beans,Healthy,75,13,0,5,400,0
+3/8/2018,Drinks,"Wine - Table, red, 1.5 glass (3.5 fl oz)",Red Wine,Unhealthy,111,3,0,0,8,0
+3/8/2018,Snacks,"Pure Protein - Whey Protein Vanilla, 1 scoop",Whey Protein,Neutral,150,8,3,25,100,2
+3/8/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1 cup",Whole Milk,Neutral,146,11,8,8,98,13
+3/8/2018,Snacks,"Rice - White, glutinous, cooked, 0.5 cup",White Rice,Neutral,84,18,0,2,4,0
+3/9/2018,Breakfast,"Special K - Fruit & Yogurt Cereal, 0.75 Cup",Cereal,Neutral,120,27,1,2,140,10
+3/9/2018,Breakfast,"Milk - Whole, 3.25% milkfat, 0.5 cup",Whole Milk,Neutral,73,6,4,4,49,6
+3/9/2018,Breakfast,"Blueberries, 0.5 cup",Blueberries,Healthy,43,11,0,1,1,8
+3/9/2018,Lunch,"Tilapia Fillets - Tilapia, 1 Fillet",Fish,Healthy,100,0,3,20,75,0
+3/9/2018,Lunch,"Tofu - Tofu, 3 oz",Tofu,Healthy,60,1,7,10,0,0
+3/9/2018,Lunch,"Allrecipes.com - Bhindi Masala, 1/12 recipe",Bhindi Masala,Healthy,33,5,1,1,199,0
+3/9/2018,Lunch,"Journey to India / Aldi - Tikka Masala, 0.38 cup",Tikka Masala,Unhealthy,105,9,7,0,495,6
+3/9/2018,Dinner,"Journey to India / Aldi - Tikka Masala, 0.38 cup",Tikka Masala,Unhealthy,105,9,7,0,495,6
+3/9/2018,Dinner,"Giorgio - Mushrooms, 3 oz",Mushrooms,Healthy,20,3,0,2,10,1
+3/9/2018,Dinner,"Tofu - Tofu, 3 oz",Tofu,Healthy,60,1,7,10,0,0
+3/9/2018,Dinner,"Rice - White, glutinous, cooked, 0.5 cup",White Rice,Neutral,84,18,0,2,4,0
+3/9/2018,Dinner,"Tofu - Tofu, 3 oz",Tofu,Healthy,60,1,7,10,0,0
+3/9/2018,Dinner,"Bush's Beans - Texas Ranchero, 0.5 cup",Ranchero Beans,Neutral,120,20,2,6,630,2
+3/9/2018,Dinner,"Beans - Red Beans, 0.33 cup",Red Beans,Healthy,75,13,0,5,400,0
+3/9/2018,Dinner,"Brothers - Mozzarella Cheese Sticks, 6 Stick",Mozzarella Sticks,Unhealthy,612,48,36,30,"1,476",0
+3/9/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1.5 cup",Whole Milk,Neutral,220,17,12,12,146,19
+3/9/2018,Snacks,"Pure Protein - Whey Protein Vanilla, 1 scoop",Whey Protein,Neutral,150,8,3,25,100,2
+3/9/2018,Snacks,"Rice - White, glutinous, cooked, 0.5 cup",White Rice,Neutral,84,18,0,2,4,0
+3/9/2018,Snacks,"Beans - Red Beans, 0.33 cup",Red Beans,Healthy,75,13,0,5,400,0
+3/9/2018,Snacks,"Silk Creamy Cashew - Cashew Milk, 0.75 cup",Silk Milk,Neutral,45,7,2,0,128,5
+3/9/2018,Snacks,"Simply Nature - Kale Chips, lemon and olive oil, 1 oz",Kale Chips,Healthy,130,18,6,1,390,1
+3/9/2018,Dessert,"Blueberries, 0.5 cup",Blueberries,Healthy,43,11,0,1,1,8
+3/10/2018,Breakfast,"Egg - Egg, 1 large",Eggs,Healthy,72,0,5,6,71,0
+3/10/2018,Breakfast,"Tillamook - Sliced Swiss Cheese, 1 slice (28 g)",Swiss Cheese,Unhealthy,110,1,8,9,60,0
+3/10/2018,Breakfast,"ham - Honey Ham, 4 slices",Ham,Neutral,60,3,2,9,650,2
+3/10/2018,Breakfast,"English muffin - English Muffin, 1 muffin",English Muffin,Unhealthy,120,25,1,4,200,1
+3/10/2018,Breakfast,"Ketchup - Heinz, 15 milliliter",Ketchup,Unhealthy,20,5,0,0,160,4
+3/10/2018,Lunch,"Costco - Sante Fe Salad, 1 bowl",Salad,Healthy,280,14,20,11,560,6
+3/10/2018,Lunch,"Crackers - Crackers, 12 crackers",Crackers,Neutral,195,11,8,6,300,3
+3/10/2018,Lunch,"hummus - Hummus, 3 tbsp",Hummus,Healthy,105,6,8,3,195,2
+3/10/2018,Dinner,"Golden potatoes - Golden, 185 g/5.3oz",Potatoes,Neutral,138,33,0,4,0,1
+3/10/2018,Dinner,"Asparagus - Raw, 1 cup",Asparagus,Healthy,27,5,0,3,3,3
+3/10/2018,Dinner,"Sainsbury's - Vegetable Sausages, 1 Sausage",Vegetable Sausage,Healthy,69,9,3,2,0,0
+3/10/2018,Dinner,"Risotto - Risotto, 0.33 cup",Risotto,Neutral,213,48,0,4,0,0
+3/10/2018,Drinks,"Wine - Table, red, 1.5 glass (3.5 fl oz)",Red Wine,Unhealthy,111,3,0,0,8,0
+3/10/2018,Snacks,"Pure Protein - Whey Protein Vanilla, 1 scoop",Whey Protein,Neutral,150,8,3,25,100,2
+3/10/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1.5 cup",Whole Milk,Neutral,220,17,12,12,146,19
+3/10/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1.5 cup",Whole Milk,Neutral,220,17,12,12,146,19
+3/10/2018,Snacks,"Pringles - Sour Cream & Onion (1.41oz), 1 can",Potato Chips,Unhealthy,210,23,12,2,230,1
+3/10/2018,Snacks,"Pringles - Sour Cream & Onion (1.41oz), 0.75 can",Potato Chips,Unhealthy,158,17,9,2,173,1
+3/10/2018,Snacks,"Medium Nectarine - Medium Nectarine, 1 Nectarine",Oranges,Healthy,60,14,0,1,0,11
+3/11/2018,Breakfast,"Special K - Fruit & Yogurt Cereal, 0.75 Cup",Cereal,Neutral,120,27,1,2,140,10
+3/11/2018,Breakfast,"Milk - Whole, 3.25% milkfat, 0.5 cup",Whole Milk,Neutral,73,6,4,4,49,6
+3/11/2018,Breakfast,"Blueberries, 0.5 cup",Blueberries,Healthy,43,11,0,1,1,8
+3/11/2018,Lunch,"Fish - Salmon, Wild, Baked, 10 oz",Fish,Healthy,482,0,28,56,124,0
+3/11/2018,Lunch,"Boar's Head - Gruyere Cheese, 1 oz",Gruyere Cheese,Unhealthy,110,0,9,7,150,0
+3/11/2018,Lunch,"Spinach - Raw, 2 cup",Spinach,Healthy,14,2,0,2,47,0
+3/11/2018,Lunch,"Onions, raw, 0.5 cup, chopped",Onions,Healthy,32,7,0,1,3,3
+3/11/2018,Lunch,"Grape Tomato - Grape Tomato, 9 Tomatoes (3 oz)",Tomatoes,Healthy,26,5,0,1,0,3
+3/11/2018,Dinner,"Wegmans - Organic Ciabatta Roll, 1 Roll (78g)",Ciabatta Roll,Neutral,210,39,3,8,370,1
+3/11/2018,Dinner,"ground Turkey - Turkey, 3 oz",Ground Turkey,Neutral,120,1,6,17,64,0
+3/11/2018,Dinner,"Boarshead - Chipotle Gouda Cheese, 1 oz",Gouda Cheese,Unhealthy,100,0,8,6,240,0
+3/11/2018,Dinner,"Mayo - Mayo, 2 tablespoon",Mayo,Unhealthy,90,2,9,0,220,0
+3/11/2018,Dinner,"Spinach - Raw, 1 cup",Spinach,Healthy,7,1,0,1,24,0
+3/11/2018,Dinner,"Onions, raw, 0.5 cup, chopped",Onions,Healthy,32,7,0,1,3,3
+3/11/2018,Dinner,"Guac - Guac, 1 pack",Guacamole,Healthy,100,5,9,1,0,0
+3/11/2018,Dinner,"Tortillas - Chips, 2.25 chips",Tortilla Chips,Unhealthy,35,5,2,1,0,0
+3/11/2018,Snacks,"Pure Protein - Whey Protein Vanilla, 1 scoop",Whey Protein,Neutral,150,8,3,25,100,2
+3/11/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1.5 cup",Whole Milk,Neutral,220,17,12,12,146,19
+3/11/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1 cup",Whole Milk,Neutral,146,11,8,8,98,13
+3/11/2018,Snacks,"Banana - Banana, 1 medium banana (126 g)",Banana,Healthy,105,27,0,1,1,14
+3/11/2018,Snacks,"Popcorn - Popcorn, 0.5 cup",Popcorn,Neutral,28,3,2,1,8,1
+3/12/2018,Breakfast,"Special K - Fruit & Yogurt Cereal, 0.75 Cup",Cereal,Neutral,120,27,1,2,140,10
+3/12/2018,Breakfast,"Milk - Whole, 3.25% milkfat, 0.5 cup",Whole Milk,Neutral,73,6,4,4,49,6
+3/12/2018,Breakfast,"Blueberries, 0.5 cup",Blueberries,Healthy,43,11,0,1,1,8
+3/12/2018,Lunch,"Chipotle - Vegan Style Burrito, 1 Burrito",Burrito,Unhealthy,820,113,35,21,"2,025",3
+3/12/2018,Dinner,"Fish - Salmon, Wild, Baked, 10 oz",Fish,Healthy,482,0,28,56,124,0
+3/12/2018,Dinner,"Golden potatoes - Golden, 148 g/5.3oz",Potatoes,Neutral,110,26,0,3,0,1
+3/12/2018,Dinner,"Asparagus - Raw, 1 cup",Asparagus,Healthy,27,5,0,3,3,3
+3/12/2018,Drinks,"Wine - Table, red, 1.5 glass (3.5 fl oz)",Red Wine,Unhealthy,111,3,0,0,8,0
+3/12/2018,Dinner,"Sainsbury's - Vegetable Sausages, 1 Sausage",Vegetable Sausage,Healthy,69,9,3,2,0,0
+3/12/2018,Snacks,"Pure Protein - Whey Protein Vanilla, 1 scoop",Whey Protein,Neutral,150,8,3,25,100,2
+3/12/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1 cup",Whole Milk,Neutral,146,11,8,8,98,13
+3/12/2018,Snacks,"Kirkland - Almond Butter, 1 Tbs",Almond Butter,Healthy,105,3,9,4,0,1
+3/12/2018,Snacks,"Banana - Banana, 0.5 medium banana (126 g)",Banana,Healthy,53,14,0,1,1,7
+3/12/2018,Dessert,"Chocolate Chips, 0.5 tbsp.",Chocolate Chips,Unhealthy,40,5,2,1,0,4
+3/13/2018,Breakfast,"Special K - Fruit & Yogurt Cereal, 0.75 Cup",Cereal,Neutral,120,27,1,2,140,10
+3/13/2018,Breakfast,"Milk - Whole, 3.25% milkfat, 0.5 cup",Whole Milk,Neutral,73,6,4,4,49,6
+3/13/2018,Breakfast,"Blueberries, 0.5 cup",Blueberries,Healthy,43,11,0,1,1,8
+3/13/2018,Lunch,"Sushi - Edamane, 5 oz",Edamame,Healthy,100,9,3,7,260,2
+3/13/2018,Lunch,"Tuna - Tuna roll, 2 roll",Sushi,Neutral,474,67,19,9,0,0
+3/13/2018,Lunch,"Citygirlbites - Yellowtail & Scallion Roll, 2 roll",Sushi,Neutral,380,54,4,48,0,0
+3/13/2018,Lunch,"Sushi - Salmon, 4 piece",Fish,Healthy,224,33,6,13,0,0
+3/13/2018,Dinner,"Wegmans - Organic Ciabatta Roll, 1 Roll (78g)",Ciabatta Roll,Neutral,210,39,3,8,370,1
+3/13/2018,Dinner,"Trader Joe's - Meatless Meatballs, 6 pieces (85g)",Meatballs,Unhealthy,140,8,5,14,470,1
+3/13/2018,Dinner,"Borden - Natural Shredded Gouda, 14 g (1/4cup)",Gouda Cheese,Unhealthy,50,1,35,4,90,0
+3/13/2018,Dinner,"Bounce - Natural Energy Ball, 1 ball",Energy Ball,Healthy,210,21,8,12,0,12
+3/13/2018,Dinner,"Milk - Whole, 3.25% milkfat, 0.67 cup",Whole Milk,Neutral,98,7,5,5,65,9
+3/13/2018,Dessert,"Trader Joe's - Dried Blueberries, 0.25 cup",Candy,Unhealthy,140,33,0,1,0,14
+3/13/2018,Snacks,"Pure Protein - Whey Protein Vanilla, 1 scoop",Whey Protein,Neutral,150,8,3,25,100,2
+3/13/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1 cup",Whole Milk,Neutral,146,11,8,8,98,13
+3/14/2018,Breakfast,"Egg - Egg, 1 large",Eggs,Healthy,72,0,5,6,71,0
+3/14/2018,Breakfast,"English muffin - English Muffin, 1 muffin",English Muffin,Unhealthy,120,25,1,4,200,1
+3/14/2018,Breakfast,"ham - Honey Ham, 4 slices",Ham,Neutral,60,3,2,9,650,2
+3/14/2018,Breakfast,"Tillamook - Sliced Swiss Cheese, 1 slice (28 g)",Swiss Cheese,Unhealthy,110,1,8,9,60,0
+3/14/2018,Breakfast,"Ketchup - Heinz, 15 milliliter",Ketchup,Unhealthy,20,5,0,0,160,4
+3/14/2018,Breakfast,"Bounce - Natural Energy Ball, 1 ball",Energy Ball,Healthy,210,21,8,12,0,12
+3/14/2018,Breakfast,"Milk - Whole, 3.25% milkfat, 1 cup",Whole Milk,Neutral,146,11,8,8,98,13
+3/14/2018,Lunch,"Tillamook - Sliced Swiss Cheese, 1 slice (28 g)",Swiss Cheese,Unhealthy,110,1,8,9,60,0
+3/14/2018,Lunch,"ground Turkey - Turkey, 4 oz",Ground Turkey,Neutral,160,1,8,22,85,0
+3/14/2018,Lunch,"Spinach - Raw, 2 cup",Spinach,Healthy,14,2,0,2,47,0
+3/14/2018,Lunch,"Borden - Natural Shredded Gouda, 14 g (1/4cup)",Gouda Cheese,Unhealthy,50,1,35,4,90,0
+3/14/2018,Dinner,"Shirakiku - Yam Noodle (Shiratake), 28 g",Jelly Noodles,Neutral,0,0,0,0,0,0
+3/14/2018,Dinner,"Nasogastric - Veggie dumping s, 2.33 dumplings",Dumplings,Unhealthy,87,13,2,4,0,0
+3/14/2018,Dinner,"Trader Joe's - Chicken-Less Mandarin Orange Morsels, 0.38 container (20 pieces ea.)",Orange Chicken,Unhealthy,240,29,8,12,428,13
+3/14/2018,Snacks,"Bounce - Natural Energy Ball, 1 ball",Energy Ball,Healthy,210,21,8,12,0,12
+3/14/2018,Snacks,"Pringles - Sour Cream & Onion (1.41oz), 2 can",Potato Chips,Unhealthy,420,46,24,4,460,2
+3/14/2018,Snacks,"ham - Honey Ham, 4 slices",Ham,Neutral,60,3,2,9,650,2
+3/14/2018,Snacks,"Snodream - Shaved Sno Ice , 0.5 cup",Shaved Ice,Neutral,79,19,2,1,13,11
+3/14/2018,Dessert,"Blueberries, 0.5 cup",Blueberries,Healthy,43,11,0,1,1,8
+3/14/2018,Dessert,"Strawberries, raw, 0.5 cup, halves",Strawberries,Healthy,24,6,0,1,1,4
+3/14/2018,Dessert,"Berry protein smoothie - Smoothie, 2 cup",Smoothie,Healthy,612,72,6,72,0,0
+3/14/2018,Snacks,"Michigan Dining - Scrambled Tofu, 0.5 Cup",Tofu,Healthy,102,5,5,10,216,1
+3/15/2018,Snacks,"ham - Honey Ham, 3 slices",Ham,Neutral,45,2,1,7,488,2
+3/15/2018,Snacks,"Tillamook - Sliced Swiss Cheese, 1 slice (28 g)",Swiss Cheese,Unhealthy,110,1,8,9,60,0
+3/15/2018,Snacks,"Egg - Egg, 2 large",Eggs,Healthy,143,1,10,13,142,0
+3/15/2018,Lunch,"Chinese - Lo Mein, 1 cup",Lo Mein,Unhealthy,310,35,12,15,492,3
+3/15/2018,Lunch,"Chinese - Fried Pork Dumplings, 7 Dumpling",Dumplings,Unhealthy,280,63,11,21,840,0
+3/15/2018,Dinner,"Barber Foods - Chicken Parmesan, 2 piece",Orange Chicken,Unhealthy,500,26,28,40,980,4
+3/15/2018,Dinner,"Homemade - Quick Tomato Sauce, 1 cup",Tomato Sauce,Neutral,120,12,5,4,88,8
+3/15/2018,Dinner,"Boar's Head - Gruyere Cheese, 1 oz",Gruyere Cheese,Unhealthy,110,0,9,7,150,0
+3/15/2018,Drinks,"Wine - Table, red, 1.5 glass (3.5 fl oz)",Red Wine,Unhealthy,111,3,0,0,8,0
+3/15/2018,Snacks,"Pure Protein - Whey Protein Vanilla, 1 scoop",Whey Protein,Neutral,150,8,3,25,100,2
+3/15/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1 cup",Whole Milk,Neutral,146,11,8,8,98,13
+3/15/2018,Dessert,"Giant - Custard Filled Eclair, 1 dessert",Éclair,Unhealthy,500,400,6,6,0,0
+3/15/2018,Snacks,"Milk - Whole, 3.25% milkfat, 0.5 cup",Whole Milk,Neutral,73,6,4,4,49,6
+3/16/2018,Breakfast,"Egg - Egg, 2 large",Eggs,Healthy,143,1,10,13,142,0
+3/16/2018,Breakfast,"Tillamook - Sliced Swiss Cheese, 1 slice (28 g)",Swiss Cheese,Unhealthy,110,1,8,9,60,0
+3/16/2018,Breakfast,"Dierbergs Signature - Black Forest Ham, 2 slices",Ham,Neutral,30,0,1,6,220,0
+3/16/2018,Breakfast,"Deli sliced - Turkey, 1.25 pieces",Turkey,Neutral,13,0,0,3,105,0
+3/16/2018,Breakfast,"Blueberries, 0.5 cup",Blueberries,Healthy,43,11,0,1,1,8
+3/16/2018,Lunch,"Barber Foods - Chicken Parmesan, 2 piece",Orange Chicken,Unhealthy,500,26,28,40,980,4
+3/16/2018,Lunch,"Boar's Head - Gruyere Cheese, 1 oz",Gruyere Cheese,Unhealthy,110,0,9,7,150,0
+3/16/2018,Lunch,"Homemade - Quick Tomato Sauce, 0.5 cup",Tomato Sauce,Neutral,60,6,2,2,44,4
+3/16/2018,Dinner,"Pure Protein - Whey Protein Vanilla, 1 scoop",Whey Protein,Neutral,150,8,3,25,100,2
+3/16/2018,Dinner,"Milk - Whole, 3.25% milkfat, 1 cup",Whole Milk,Neutral,146,11,8,8,98,13
+3/16/2018,Dinner,"Chinese - Fried Pork Dumplings, 7 Dumpling",Dumplings,Unhealthy,280,63,11,21,840,0
+3/16/2018,Snacks,"Simply Nature - Vanilla Chip Chewy Granola Bar (Corrected 7/15), 1 bar",Granola Bar,Neutral,100,18,3,2,15,8
+3/16/2018,Snacks,"Kirlands - unsalted mixed nuts, 0.25 cup",Nuts,Healthy,190,7,16,5,0,2
+3/16/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1 cup",Whole Milk,Neutral,146,11,8,8,98,13
+3/17/2018,Breakfast,"Egg - Egg, 2 large",Eggs,Healthy,143,1,10,13,142,0
+3/17/2018,Breakfast,"Tillamook - Sliced Swiss Cheese, 1 slice (28 g)",Swiss Cheese,Unhealthy,110,1,8,9,60,0
+3/17/2018,Breakfast,"Deli sliced - Turkey, 2.5 pieces",Turkey,Neutral,25,1,0,5,210,0
+3/17/2018,Lunch,"Barber Foods - Chicken Parmesan, 0.9 piece",Chicken Parmesan,Unhealthy,225,12,13,18,441,2
+3/17/2018,Lunch,"Black Beans, 0.5 cup",Black Beans,Healthy,110,19,1,7,10,1
+3/17/2018,Lunch,"Boar's Head - Gruyere Cheese, 0.35 oz",Gruyere Cheese,Unhealthy,39,0,3,2,53,0
+3/17/2018,Lunch,"Beans - Pinto, canned, 0.5 cup",Pinto Beans,Healthy,103,18,1,6,353,0
+3/17/2018,Dinner,"Patties - Burger, 2 patty",Burger,Unhealthy,480,0,34,42,150,0
+3/17/2018,Dinner,"Kaiser - Roll, 1 rolll",Bread,Unhealthy,167,30,3,6,310,1
+3/17/2018,Dinner,"Boarshead - Chipotle Gouda Cheese, 1 oz",Gouda Cheese,Unhealthy,100,0,8,6,240,0
+3/17/2018,Dinner,"Roma - Tomato Slice, 1 Slice",Tomatoes,Healthy,5,1,0,0,1,1
+3/17/2018,Dinner,"Guac - Guac, 1 pack",Guacamole,Healthy,100,5,9,1,0,0
+3/17/2018,Dinner,"OreIda - Sweet Potato Fries, 4.2 Oz",French Fries,Unhealthy,224,29,11,1,224,8
+3/17/2018,Dinner,"Ketchup - Heinz, 15 milliliter",Ketchup,Unhealthy,20,5,0,0,160,4
+3/17/2018,Drinks,"Wine - Table, red, 2.5 glass (3.5 fl oz)",Red Wine,Unhealthy,185,4,0,1,13,0
+3/17/2018,Snacks,"Simply Nature - Vanilla Chip Chewy Granola Bar (Corrected 7/15), 1 bar",Granola Bar,Neutral,100,18,3,2,15,8
+3/17/2018,Snacks,"Kirlands - unsalted mixed nuts, 0.25 cup",Nuts,Healthy,190,7,16,5,0,2
+3/17/2018,Dessert,"Pas - Black and White Cookie, 1.5 oz",Cookies,Unhealthy,170,30,5,2,120,20
+3/17/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1 cup",Whole Milk,Neutral,146,11,8,8,98,13
+3/18/2018,Breakfast,"Trader Joe's - Organic Oats & Flax Instant Oatmeal, 1 packet",Oatmeal,Healthy,150,29,2,4,130,11
+3/18/2018,Breakfast,"Blueberries, 0.5 cup",Blueberries,Healthy,43,11,0,1,1,8
+3/18/2018,Lunch,"Primefoods - Steamed Pork Buns, 3 piece",Pork Buns,Unhealthy,390,69,8,15,330,21
+3/18/2018,Lunch,"Chinese - Lo Mein, 1 cup",Lo Mein,Unhealthy,310,35,12,15,492,3
+3/18/2018,Dinner,"Boar's Head - Gruyere Cheese, 1 oz",Gruyere Cheese,Unhealthy,110,0,9,7,150,0
+3/18/2018,Dinner,"Liscio's - Italian Sub Roll , 1 roll",Bread,Unhealthy,310,65,3,7,940,1
+3/18/2018,Dinner,"Trader Joe's - Meatless Meatballs, 12 pieces (85g)",Meatballs,Unhealthy,280,16,10,28,940,2
+3/18/2018,Dinner,"Homemade - Quick Tomato Sauce, 0.5 cup",Tomato Sauce,Neutral,60,6,2,2,44,4
+3/18/2018,Snacks,"Pure Protein - Whey Protein Vanilla, 1 scoop",Whey Protein,Neutral,150,8,3,25,100,2
+3/18/2018,Snacks,"Milk - Whole, 3.25% milkfat, 0.5 cup",Whole Milk,Neutral,73,6,4,4,49,6
+3/18/2018,Snacks,"Wonderful - Pastachios, 0.63 cup",Nuts,Healthy,188,10,16,8,169,3
+3/18/2018,Drinks,"Bacardi Breezer - Pina Colada, 4 oz",Pina Colada,Unhealthy,105,12,1,0,0,0
+3/18/2018,Snacks,"Utz - Pub Mix, 1 oz",Snack Mix,Unhealthy,130,19,5,3,330,2
+3/18/2018,Dessert,"Strawberries, raw, 1 cup, halves",Strawberries,Healthy,49,12,0,1,2,7
+3/19/2018,Breakfast,"Egg - Egg, 2 large",Eggs,Healthy,143,1,10,13,142,0
+3/19/2018,Breakfast,"Black Beans, 0.5 cup",Black Beans,Healthy,110,19,1,7,10,1
+3/19/2018,Breakfast,"Guac - Guac, 1 pack",Guacamole,Healthy,100,5,9,1,0,0
+3/19/2018,Breakfast,"Tomato - Tomato Slices, 2 slice",Tomatoes,Healthy,5,1,0,0,1,0
+3/19/2018,Breakfast,"Boar's Head - Gruyere Cheese, 1 oz",Gruyere Cheese,Unhealthy,110,0,9,7,150,0
+3/19/2018,Lunch,"Nasogastric - Veggie dumping s, 5.25 dumplings",Dumplings,Unhealthy,195,30,5,8,0,0
+3/19/2018,Lunch,"Chinese - Lo Mein, 1.5 cup",Lo Mein,Unhealthy,465,53,18,22,738,4
+3/19/2018,Dinner,"Chunk Light - Tuna Pack, 1 pouch (2.6oz/74g)",Fish,Healthy,70,0,1,17,300,0
+3/19/2018,Dinner,"Primal Kitchen - Avocado Oil Mayo, 0.9 tablespoon",Mayo,Unhealthy,90,0,11,0,113,0
+3/19/2018,Drinks,"Wine - Table, red, 1.5 glass (3.5 fl oz)",Red Wine,Unhealthy,111,3,0,0,8,0
+3/19/2018,Snacks,"Simply Nature - Vanilla Chip Chewy Granola Bar (Corrected 7/15), 1 bar",Granola Bar,Neutral,100,18,3,2,15,8
+3/19/2018,Snacks,"Kirlands - unsalted mixed nuts, 0.25 cup",Nuts,Healthy,190,7,16,5,0,2
+3/19/2018,Snacks,"Pure Protein - Whey Protein Vanilla, 1 scoop",Whey Protein,Neutral,150,8,3,25,100,2
+3/19/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1 cup",Whole Milk,Neutral,146,11,8,8,98,13
+3/19/2018,Snacks,"Simply Nature - Kale Chips, lemon and olive oil, 1.5 oz",Kale Chips,Healthy,195,27,9,2,585,2
+3/19/2018,Dessert,"Pas - Black and White Cookie, 1.5 oz",Cookies,Unhealthy,170,30,5,2,120,20
+3/19/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1 cup",Whole Milk,Neutral,146,11,8,8,98,13
+3/20/2018,Breakfast,"Aaron's - Whole Wheat Banana Pancakes, 2 pancake",Banana Pancakes,Unhealthy,248,41,6,8,118,7
+3/20/2018,Breakfast,"Syrup, maple, Canadian, 12 milliliter",Maple Syrup,Unhealthy,43,11,0,0,1,10
+3/20/2018,Breakfast,"Lucerine - Canned Whipped Cream, 8 Tbs",Whipped Cream,Unhealthy,80,4,8,0,0,4
+3/20/2018,Lunch,"Chunk Light - Tuna Pack, 1 pouch (2.6oz/74g)",Fish,Healthy,70,0,1,17,300,0
+3/20/2018,Lunch,"Primal Kitchen - Avocado Oil Mayo, 0.9 tablespoon",Mayo,Unhealthy,90,0,11,0,113,0
+3/20/2018,Dessert,"Stonyfield Organic - Smoothie, Strawberry Banana, 1 Bottle",Smoothie,Healthy,110,18,2,6,85,15
+3/20/2018,Dinner,"Beef - Mongolian Beef, 16 ounce",Beef,Neutral,953,28,100,177,386,28
+3/20/2018,Dinner,"Fish - Fish, 9 OZ",Fish,Healthy,450,0,0,0,0,0
+3/20/2018,Snacks,"Pure Protein - Whey Protein Vanilla, 1 scoop",Whey Protein,Neutral,150,8,3,25,100,2
+3/20/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1 cup",Whole Milk,Neutral,146,11,8,8,98,13
+3/20/2018,Snacks,"Milk - Whole, 3.25% milkfat, 0.75 cup",Whole Milk,Neutral,110,8,6,6,73,10
+3/20/2018,Dessert,"Pas - Black and White Cookie, 0.75 oz",Cookies,Unhealthy,85,15,3,1,60,10
+3/20/2018,Snacks,"Gfs - Spanakopita, 2.25 pieces",Spanakopita,Unhealthy,128,13,8,2,135,1
+3/20/2018,Snacks,"hummus - Hummus, 3 tbsp",Hummus,Healthy,105,6,8,3,195,2
+3/20/2018,Snacks,"Crackers - Crackers, 16 crackers",Crackers,Neutral,260,14,10,8,400,4
+3/20/2018,Snacks,"Energy Ball, 1 serving(s)",Energy Ball,Healthy,241,25,8,4,0,13
+3/20/2018,Drinks,"Wine - Table, red, 1.5 glass (3.5 fl oz)",Red Wine,Unhealthy,111,3,0,0,8,0
+3/20/2018,Dessert,"Pas - Black and White Cookie, 1.5 oz",Cookies,Unhealthy,170,30,5,2,120,20
+3/21/2018,Breakfast,"Energy Ball, 1 serving(s)",Energy Ball,Healthy,482,51,17,8,0,26
+3/21/2018,Lunch,"Nasogastric - Veggie dumping s, 1.75 dumplings",Dumplings,Unhealthy,65,10,2,3,0,0
+3/21/2018,Lunch,"Chinese - Lo Mein, 0.5 cup",Lo Mein,Unhealthy,155,18,6,7,246,1
+3/21/2018,Dinner,"Tofu Steak - Bbq Grilled, 3 oz",Tofu,Healthy,130,3,7,14,15,0
+3/21/2018,Dinner,"Warrens - House Fries (Small), 3.5 oz",French Fries,Unhealthy,240,20,10,2,1,1
+3/21/2018,Snacks,"Wonderful - Pastachios, 0.63 cup",Nuts,Healthy,188,10,16,8,169,3
+3/21/2018,Snacks,"Tortillas - Chips, 18 chips",Tortilla Chips,Unhealthy,280,38,14,4,0,0
+3/21/2018,Snacks,"Guac - Guac, 1 pack",Guacamole,Healthy,100,5,9,1,0,0
+3/21/2018,Dessert,"Pas - Black and White Cookie, 1.5 oz",Cookies,Unhealthy,170,30,5,2,120,20
+3/21/2018,Dessert,"Strawberries, raw, 1.6 cup, halves",Strawberries,Healthy,78,19,1,2,2,12
+3/21/2018,Snacks,"Milk - Whole, 3.25% milkfat, 0.75 cup",Whole Milk,Neutral,110,8,6,6,73,10
+3/22/2018,Breakfast,"Egg - Egg, 2 large",Eggs,Healthy,143,1,10,13,142,0
+3/22/2018,Breakfast,"Boar's Head - Gruyere Cheese, 1 oz",Gruyere Cheese,Unhealthy,110,0,9,7,150,0
+3/22/2018,Breakfast,"Shredded hash browns - Shredded Hash Browns, 1 cup",Hash Browns,Unhealthy,70,16,0,1,0,0
+3/22/2018,Lunch,"Chunk Light - Tuna Pack, 1 pouch (2.6oz/74g)",Fish,Healthy,70,0,1,17,300,0
+3/22/2018,Lunch,"Primal Kitchen - Avocado Oil Mayo, 0.9 tablespoon",Mayo,Unhealthy,90,0,11,0,113,0
+3/22/2018,Dinner,"Oliviera - Tortillini, 1.73 cup",Tortillini,Unhealthy,621,115,8,23,"1,242",9
+3/22/2018,Dinner,"Homemade - Quick Tomato Sauce, 1 cup",Tomato Sauce,Neutral,120,12,5,4,88,8
+3/22/2018,Snacks,"Simply Nature - Vanilla Chip Chewy Granola Bar (Corrected 7/15), 1 bar",Granola Bar,Neutral,100,18,3,2,15,8
+3/22/2018,Snacks,"Kirlands - unsalted mixed nuts, 0.5 cup",Nuts,Healthy,380,14,32,10,0,4
+3/22/2018,Snacks,"Pringles - Sour Cream & Onion (1.41oz), 1 can",Potato Chips,Unhealthy,210,23,12,2,230,1
+3/22/2018,Snacks,"Pure Protein - Whey Protein Vanilla, 1 scoop",Whey Protein,Neutral,150,8,3,25,100,2
+3/22/2018,Snacks,"Milk - Whole, 3.25% milkfat, 0.75 cup",Whole Milk,Neutral,110,8,6,6,73,10
+3/22/2018,Dessert,"Pas - Black and White Cookie, 1.5 oz",Cookies,Unhealthy,170,30,5,2,120,20
+3/23/2018,Breakfast,"Stonyfield Organic - Smoothie, Strawberry Banana, 1 Bottle",Smoothie,Healthy,110,18,2,6,85,15
+3/23/2018,Lunch,"Trader Joe's - Paneer Tikki Masala, 255 g (1 tray/9 oz)",Tikka Masala,Unhealthy,430,40,23,14,730,1
+3/23/2018,Dinner,"Spps - Chicken Fried Rice, 0.84 cup",Fried Rice,Unhealthy,250,26,8,21,408,0
+3/23/2018,Dinner,"Rice - White, glutinous, cooked, 0.5 cup",White Rice,Neutral,84,18,0,2,4,0
+3/23/2018,Dinner,"Superior - Red Chili Oil, 0.25 cup(s)",Oil,Unhealthy,520,0,56,0,0,0
+3/23/2018,Dinner,"Yanshan - Liangfen jelly, 200 ml",Jelly Noodles,Neutral,76,17,0,0,0,0
+3/23/2018,Snacks,"Pure Protein - Whey Protein Vanilla, 1 scoop",Whey Protein,Neutral,150,8,3,25,100,2
+3/23/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1 cup",Whole Milk,Neutral,146,11,8,8,98,13
+3/23/2018,Snacks,"Simply Nature - Vanilla Chip Chewy Granola Bar (Corrected 7/15), 1 bar",Granola Bar,Neutral,100,18,3,2,15,8
+3/23/2018,Drinks,"Chipotle - Margarita, 24 fl. oz.",Margarita,Unhealthy,460,50,0,0,10,42
+3/23/2018,Dessert,"Pas - Black and White Cookie, 0.75 oz",Cookies,Unhealthy,85,15,3,1,60,10
+3/24/2018,Breakfast,"Egg - Egg, 2 large",Eggs,Healthy,143,1,10,13,142,0
+3/24/2018,Breakfast,"Ketchup - Heinz, 15 milliliter",Ketchup,Unhealthy,20,5,0,0,160,4
+3/24/2018,Breakfast,"Boar's Head - Gruyere Cheese, 1 oz",Gruyere Cheese,Unhealthy,110,0,9,7,150,0
+3/24/2018,Breakfast,"Warrens - House Fries (Small), 1.75 oz",French Fries,Unhealthy,120,10,5,1,1,0
+3/24/2018,Lunch,"Pringles - Barbecue Potato Chips, 15 chips",Potato Chips,Unhealthy,150,16,9,1,140,1
+3/24/2018,Lunch,"Chick Fila - Chicken Sandwich, 1 Sandwich",Chicken Sandwich,Neutral,440,41,18,28,"1,390",5
+3/24/2018,Lunch,"orzo salad - salad, 1 cup",Salad,Healthy,300,0,0,0,0,0
+3/24/2018,Dinner,"Spps - Chicken Fried Rice, 0.84 cup",Fried Rice,Unhealthy,250,26,8,21,408,0
+3/24/2018,Dinner,"Egg - Egg, 1 large",Eggs,Healthy,72,0,5,6,71,0
+3/24/2018,Dinner,"Pringles - Sour Cream & Onion (1.41oz), 1 can",Potato Chips,Unhealthy,210,23,12,2,230,1
+3/24/2018,Dessert,"Trader Joe's - Dried Blueberries, 0.25 cup",Candy,Unhealthy,140,33,0,1,0,14
+3/24/2018,Snacks,"hummus - Hummus, 10 tbsp",Hummus,Healthy,350,20,25,10,650,5
+3/24/2018,Snacks,"Crackers - Crackers, 24 crackers",Crackers,Neutral,390,21,15,12,600,6
+3/25/2018,Breakfast,"Trader Joe's - Organic Oats & Flax Instant Oatmeal, 1 packet",Oatmeal,Healthy,150,29,2,4,130,11
+3/25/2018,Lunch,"Chunk Light - Tuna Pack, 1 pouch (2.6oz/74g)",Fish,Healthy,70,0,1,17,300,0
+3/25/2018,Lunch,"Primal Kitchen - Avocado Oil Mayo, 0.9 tablespoon",Mayo,Unhealthy,90,0,11,0,113,0
+3/25/2018,Lunch,"Pringles - Sour Cream & Onion (1.41oz), 1 can",Potato Chips,Unhealthy,210,23,12,2,230,1
+3/25/2018,Dinner,"Zatarain's - Black Beans and Rice, 2 cup cooked",Brown Rice,Healthy,440,94,1,16,"2,380",0
+3/25/2018,Dinner,"Guac - Guac, 2 pack",Guacamole,Healthy,200,10,18,2,0,0
+3/25/2018,Dinner,"Trader Joes - Soy Chorizo, 71 g",Soy Chorizo,Neutral,160,9,10,11,730,1
+3/25/2018,Snacks,"Kirlands - unsalted mixed nuts, 0.5 cup",Nuts,Healthy,380,14,32,10,0,4
+3/25/2018,Dessert,"The Bakery - Sugar Cookie, 1 cookie",Cookies,Unhealthy,120,17,5,1,95,7
+3/25/2018,Snacks,"Popcorn - Air Popped Popcorn, 3 cup",Popcorn,Neutral,93,19,1,3,3,0
+3/26/2018,Breakfast,"Banana - Banana, 1 medium banana (126 g)",Banana,Healthy,105,27,0,1,1,14
+3/26/2018,Lunch,"Cici's Pizza - Ham Pizza, 4 slice",Pizza,Unhealthy,576,80,13,20,972,0
+3/26/2018,Dinner,"Onion Rings - Whataburger, 1.25 Cup",Burger,Unhealthy,500,46,31,6,988,6
+3/26/2018,Dinner,"Luke's - Lobster Roll, 0.33 sandwich",Lobster Roll,Neutral,99,9,6,9,0,0
+3/26/2018,Dinner,"Panera Bread - Lobster Bisque, 0.5 Cup (243g)",Lobster Bisque,Unhealthy,140,6,10,5,175,3
+3/26/2018,Dinner,"Michigan Dining - Fried Clams, 0.17 Cup",Fried Clams,Unhealthy,147,13,9,4,271,0
+3/26/2018,Dinner,"Kraft Specialty Sauces - Tartar Sauce, 2 tbsp",Tartar Sauce,Unhealthy,70,4,6,0,230,3
+3/26/2018,Snacks,"Terra chips - Chips, 22.5 chips",Pita Chips,Neutral,225,24,14,2,75,5
+3/26/2018,Snacks,"Oranges - Orange, 0.25 c",Oranges,Healthy,16,4,0,0,0,3
+3/26/2018,Dessert,"Brewers oreo - Ice cream, 1 cup",Ice Cream,Unhealthy,260,0,0,0,0,0
+3/27/2018,Breakfast,"Egg - Egg, 2 large",Eggs,Healthy,143,1,10,13,142,0
+3/27/2018,Breakfast,"Tillamook - Cheddar Cheese - Medium, 1 oz (28g)",Cheddar Cheese,Unhealthy,110,0,9,7,170,0
+3/27/2018,Breakfast,"Generic - Salmon Locks, 1 oz",Fish,Healthy,55,0,3,12,280,0
+3/27/2018,Lunch,"Luke's - Lobster Roll, 0.5 sandwich",Lobster Roll,Neutral,150,14,10,14,0,0
+3/27/2018,Lunch,"Del Taco - Fish Taco, 1 taco",Tacos,Unhealthy,280,27,17,7,560,2
+3/27/2018,Lunch,"Baked Lay's - Sour Cream and Onion, 2 oz. (28g/About 14 chips)",Potato Chips,Unhealthy,260,48,7,4,380,6
+3/27/2018,Dinner,"Fitfoodmeals.com - Red Curry Beef, 1 container",Beef Curry,Neutral,665,97,14,11,0,0
+3/27/2018,Dinner,"Homemade - Veggie Fried Rice, 1.5 Cup",Fried Rice,Unhealthy,450,75,23,15,831,1
+3/27/2018,Dessert,"Outtakes - Chocolate Chip Cookies, 0.5 ea",Cookies,Unhealthy,85,12,4,1,60,8
+3/27/2018,Snacks,"Cape Cod - Chips, 0.6 package (53.2 g)",Potato Chips,Unhealthy,156,20,7,2,138,1
+3/27/2018,Snacks,"Oranges - Orange, 0.33 c",Oranges,Healthy,20,5,0,0,0,4
+3/27/2018,Dessert,"Outtakes - Chocolate Chip Cookies, 1 ea",Cookies,Unhealthy,170,24,7,2,120,15
+3/27/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1 cup",Whole Milk,Neutral,146,11,8,8,98,13
+3/27/2018,Dessert,"Blueberries, 0.5 cup",Blueberries,Healthy,43,11,0,1,1,8
+3/28/2018,Breakfast,"Egg - Egg, 2 large",Eggs,Healthy,143,1,10,13,142,0
+3/28/2018,Breakfast,"Generic - Salmon Locks, 1 oz",Fish,Healthy,55,0,3,12,280,0
+3/28/2018,Breakfast,"Tillamook - Cheddar Cheese - Medium, 1 oz (28g)",Cheddar Cheese,Unhealthy,110,0,9,7,170,0
+3/28/2018,Lunch,"Tortillas - Chips, 18 chips",Tortilla Chips,Unhealthy,280,38,14,4,0,0
+3/28/2018,Lunch,"Chipotle - Pico, 3.5 oz",Salsa,Neutral,20,4,0,1,470,3
+3/28/2018,Lunch,"Chipotle - Chicken Burrito Bowl, 1 Bowl",Burrito,Unhealthy,625,60,23,50,"1,425",5
+3/28/2018,Dinner,"Carraba's - Manicotti, 2.5 Noodles",Manicotti,Unhealthy,709,60,34,54,"1,523",8
+3/28/2018,Dinner,"Celentano - Ravioli, 8 ravioli",Ravioli,Unhealthy,460,72,12,18,500,4
+3/28/2018,Dinner,"Aladdin - Garlic Bread, 2 Slice",Garlic Bread,Unhealthy,276,27,17,5,486,1
+3/28/2018,Dessert,"Outtakes - Chocolate Chip Cookies, 1 ea",Cookies,Unhealthy,170,24,7,2,120,15
+3/29/2018,Breakfast,"Egg - Egg, 2 large",Eggs,Healthy,143,1,10,13,142,0
+3/29/2018,Lunch,"Trader Joe's - Chicken-Less Mandarin Orange Morsels, 0.7 container (20 pieces ea.)",Orange Chicken,Unhealthy,448,55,15,22,798,24
+3/29/2018,Lunch,"Cauliflower - Fried Rice, 0.93 cup",Cauliflower Rice,Healthy,76,10,2,6,608,1
+3/29/2018,Lunch,"Goya - Cannellini Beans, 0.5 cup (122 g)",Cannellini Beans,Healthy,80,18,0,6,390,0
+3/29/2018,Drinks,"Wine - Table, red, 2 glass (3.5 fl oz)",Red Wine,Unhealthy,148,4,0,0,10,0
+3/29/2018,Dinner,"Priano - Pesto, 4 Tbsp",Pesto,Unhealthy,300,4,28,4,720,0
+3/29/2018,Dinner,"Celentano - Ravioli, 9 ravioli",Ravioli,Unhealthy,518,81,14,20,563,5
+3/29/2018,Snacks,"Pure Protein - Whey Protein Vanilla, 1 scoop",Whey Protein,Neutral,150,8,3,25,100,2
+3/29/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1 cup",Whole Milk,Neutral,146,11,8,8,98,13
+3/30/2018,Breakfast,"Egg - Egg, 2 large",Eggs,Healthy,143,1,10,13,142,0
+3/30/2018,Lunch,"Trader Giotto's - Gnocchi Al Gorgonzola, 1.5 cup",Gnocchi,Unhealthy,460,50,22,14,880,8
+3/30/2018,Lunch,"Goya - Cannellini Beans, 0.5 cup (122 g)",Cannellini Beans,Healthy,80,18,0,6,390,0
+3/30/2018,Dinner,"Wegmans - Organic Ciabatta Roll, 1 Roll (78g)",Ciabatta Roll,Neutral,210,39,3,8,370,1
+3/30/2018,Dinner,"Publix - Colby Jack Cheese, 1 slice",Colby Jack Cheese,Unhealthy,80,0,7,5,160,0
+3/30/2018,Dinner,"Grilled chicken - Chicken, 4 oz",Chicken,Neutral,100,1,2,22,110,1
+3/30/2018,Snacks,"Pure Protein - Whey Protein Vanilla, 1 scoop",Whey Protein,Neutral,150,8,3,25,100,2
+3/30/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1 cup",Whole Milk,Neutral,146,11,8,8,98,13
+3/30/2018,Dessert,"Halo Ice Cream - Vanilla Bean, 32 gram",Ice Cream,Unhealthy,30,6,1,3,55,2
+3/30/2018,Dessert,"Lucerine - Canned Whipped Cream, 4 Tbs",Whipped Cream,Unhealthy,40,2,4,0,0,2
+3/30/2018,Dessert,"Blueberries, 0.5 cup",Blueberries,Healthy,43,11,0,1,1,8
+3/31/2018,Breakfast,"Egg - Egg, 2 large",Eggs,Healthy,143,1,10,13,142,0
+3/31/2018,Breakfast,"Generic - Salmon Locks, 1 oz",Fish,Healthy,55,0,3,12,280,0
+3/31/2018,Breakfast,"Publix - Colby Jack Cheese, 1 slice",Colby Jack Cheese,Unhealthy,80,0,7,5,160,0
+3/31/2018,Lunch,"Grilled chicken - Chicken, 4 oz",Chicken,Neutral,100,1,2,22,110,1
+3/31/2018,Lunch,"Publix - Colby Jack Cheese, 1 slice",Colby Jack Cheese,Unhealthy,80,0,7,5,160,0
+3/31/2018,Lunch,"Banana - Banana, 1 medium banana (126 g)",Banana,Healthy,105,27,0,1,1,14
+3/31/2018,Dinner,"Superior - Red Chili Oil, 0.25 cup(s)",Oil,Unhealthy,520,0,56,0,0,0
+3/31/2018,Dinner,"Yanshan - Liangfen jelly, 200 ml",Jelly Noodles,Neutral,76,17,0,0,0,0
+3/31/2018,Dinner,"Zucchini - Cooked, 1 squash",Zucchini,Healthy,29,6,0,1,4,4
+3/31/2018,Dinner,"Rice - White, glutinous, cooked, 2.5 cup",White Rice,Neutral,422,92,1,9,22,0
+3/31/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1 cup",Whole Milk,Neutral,146,11,8,8,98,13
+4/1/2018,Breakfast,"Banana - Banana, 1 medium banana (126 g)",Banana,Healthy,105,27,0,1,1,14
+4/1/2018,Lunch,"Canteen - Southwest Vegetable Soup, 12 ounce",Vegatable Soup,Healthy,170,28,5,7,400,3
+4/1/2018,Dinner,"Fish - Salmon, Wild, Baked, 10 oz",Fish,Healthy,482,0,28,56,124,0
+4/1/2018,Dinner,"Spinach - Raw, 2 cup",Spinach,Healthy,14,2,0,2,47,0
+4/1/2018,Snacks,"hummus - Hummus, 2 tbsp",Hummus,Healthy,70,4,5,2,130,1
+4/1/2018,Snacks,"Crackers - Crackers, 16 crackers",Crackers,Neutral,260,14,10,8,400,4
+4/2/2018,Breakfast,"Blueberries, 1 cup",Blueberries,Healthy,85,21,1,1,1,15
+4/2/2018,Lunch,"Wegmans - Organic Ciabatta Roll, 1 Roll (78g)",Ciabatta Roll,Neutral,210,39,3,8,370,1
+4/2/2018,Lunch,"Spinach - Raw, 0.33 cup",Spinach,Healthy,2,0,0,0,8,0
+4/2/2018,Lunch,"Grilled chicken - Chicken, 4 oz",Chicken,Neutral,100,1,2,22,110,1
+4/2/2018,Lunch,"Publix - Colby Jack Cheese, 1 slice",Colby Jack Cheese,Unhealthy,80,0,7,5,160,0
+4/2/2018,Dinner,"Rice - White, glutinous, cooked, 0.3 cup",White Rice,Neutral,51,11,0,1,3,0
+4/2/2018,Dinner,"Morrison - Brown Rice, 0.3 cup",Brown Rice,Healthy,74,15,1,2,24,0
+4/2/2018,Dinner,"Black Beans, 0.25 cup",Black Beans,Healthy,55,10,1,4,5,1
+4/2/2018,Dinner,"Goya - Cannellini Beans, 0.25 cup (122 g)",Cannellini Beans,Healthy,40,9,0,3,195,0
+4/2/2018,Dinner,"Giorgio - Mushrooms, 3 oz",Mushrooms,Healthy,20,3,0,2,10,1
+4/2/2018,Dinner,"Tofu - Tofu, 3 oz",Tofu,Healthy,60,1,7,10,0,0
+4/2/2018,Dinner,"Smoked Cheese - Smoked Cheddar Cheese, 2 oz or 28grams",Cheddar Cheese,Unhealthy,120,0,10,8,200,0
+4/2/2018,Dinner,"Guac - Guac, 1.5 pack",Guacamole,Healthy,150,8,14,2,0,0
+4/2/2018,Snacks,"Pure Protein - Whey Protein Vanilla, 1 scoop",Whey Protein,Neutral,150,8,3,25,100,2
+4/2/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1 cup",Whole Milk,Neutral,146,11,8,8,98,13
+4/2/2018,Dessert,"Starbucks - Brownie, 1.33 brownie",Brownie,Unhealthy,545,61,32,8,100,40
+4/2/2018,Snacks,"Milk - Whole, 3.25% milkfat, 2 cup",Whole Milk,Neutral,293,22,16,16,195,26
+4/2/2018,Snacks,"Cuties - Clementines, 168 g (Approx 2)",Oranges,Healthy,80,17,1,1,0,13
+4/3/2018,Breakfast,"Blueberries, 1 cup",Blueberries,Healthy,85,21,1,1,1,15
+4/3/2018,Lunch,"Fish - Salmon, Wild, Baked, 10 oz",Fish,Healthy,482,0,28,56,124,0
+4/3/2018,Lunch,"Spinach - Raw, 2 cup",Spinach,Healthy,14,2,0,2,47,0
+4/3/2018,Dinner,"Generic - Tofu Veggie Stirfry, 2.5 serving 350g",Tofu,Healthy,625,51,33,27,25,18
+4/3/2018,Drinks,"Boulevard - Unfiltered Wheat Beer, 12 oz",Beer,Unhealthy,135,17,0,0,0,0
+4/3/2018,Snacks,"Pure Protein - Whey Protein Vanilla, 1 scoop",Whey Protein,Neutral,150,8,3,25,100,2
+4/3/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1 cup",Whole Milk,Neutral,146,11,8,8,98,13
+4/3/2018,Dessert,"Starbucks - Brownie, 1.33 brownie",Brownie,Unhealthy,545,61,32,8,100,40
+4/3/2018,Snacks,"Milk - Whole, 3.25% milkfat, 2 cup",Whole Milk,Neutral,293,22,16,16,195,26
+4/4/2018,Breakfast,"Cuties - Clementines, 168 g (Approx 2)",Oranges,Healthy,80,17,1,1,0,13
+4/4/2018,Lunch,"Grilled chicken - Chicken, 4 oz",Chicken,Neutral,100,1,2,22,110,1
+4/4/2018,Lunch,"Smoked Cheese - Smoked Cheddar Cheese, 2 oz or 28grams",Cheddar Cheese,Unhealthy,120,0,10,8,200,0
+4/4/2018,Lunch,"Morrison - Brown Rice, 0.3 cup",Brown Rice,Healthy,74,15,1,2,24,0
+4/4/2018,Lunch,"Goya - Cannellini Beans, 0.25 cup (122 g)",Cannellini Beans,Healthy,40,9,0,3,195,0
+4/4/2018,Lunch,"Black Beans, 0.25 cup",Black Beans,Healthy,55,10,1,4,5,1
+4/4/2018,Lunch,"Rice - White, glutinous, cooked, 0.3 cup",White Rice,Neutral,51,11,0,1,3,0
+4/4/2018,Lunch,"Spinach - Raw, 1 cup",Spinach,Healthy,7,1,0,1,24,0
+4/4/2018,Dinner,"Celentano - Ravioli, 9 ravioli",Ravioli,Unhealthy,518,81,14,20,563,5
+4/4/2018,Dinner,"Homemade - Quick Tomato Sauce, 1.5 cup",Tomato Sauce,Neutral,180,18,7,6,131,12
+4/4/2018,Snacks,"Pure Protein - Whey Protein Vanilla, 1 scoop",Whey Protein,Neutral,150,8,3,25,100,2
+4/4/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1 cup",Whole Milk,Neutral,146,11,8,8,98,13
+4/4/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1 cup",Whole Milk,Neutral,146,11,8,8,98,13
+4/4/2018,Dessert,"Halo Ice Cream - Vanilla Bean, 64 gram",Ice Cream,Unhealthy,60,11,2,6,110,4
+4/4/2018,Snacks,"Silk - Vanilla Soy Milk, 1 cup",Silk Milk,Neutral,100,10,4,6,100,8
+4/4/2018,Dessert,"Lucerine - Canned Whipped Cream, 4 Tbs",Whipped Cream,Unhealthy,40,2,4,0,0,2
+4/4/2018,Snacks,"Popcorn - Air Popped Popcorn, 2 cup",Popcorn,Neutral,62,12,1,2,2,0
+4/5/2018,Breakfast,"Generic - Salmon Locks, 1 oz",Fish,Healthy,55,0,3,12,280,0
+4/5/2018,Breakfast,"Egg - Egg, 2 large",Eggs,Healthy,143,1,10,13,142,0
+4/5/2018,Breakfast,"Publix - Colby Jack Cheese, 1 slice",Colby Jack Cheese,Unhealthy,80,0,7,5,160,0
+4/5/2018,Lunch,"Morrison - Brown Rice, 0.3 cup",Brown Rice,Healthy,74,15,1,2,24,0
+4/5/2018,Lunch,"Spinach - Raw, 1 cup",Spinach,Healthy,7,1,0,1,24,0
+4/5/2018,Lunch,"Rice - White, glutinous, cooked, 0.3 cup",White Rice,Neutral,51,11,0,1,3,0
+4/5/2018,Lunch,"Black Beans, 0.25 cup",Black Beans,Healthy,55,10,1,4,5,1
+4/5/2018,Lunch,"Goya - Cannellini Beans, 0.25 cup (122 g)",Cannellini Beans,Healthy,40,9,0,3,195,0
+4/5/2018,Dinner,"Celentano - Ravioli, 10 ravioli",Ravioli,Unhealthy,575,90,15,23,625,5
+4/5/2018,Dinner,"Homemade - Quick Tomato Sauce, 1.5 cup",Tomato Sauce,Neutral,180,18,7,6,131,12
+4/5/2018,Snacks,"paneer - Paneer, 56 g",Paneer,Unhealthy,200,0,16,12,20,0
+4/5/2018,Dessert,"Berry protein smoothie - Smoothie, 2 cup",Smoothie,Healthy,612,72,6,72,0,0
+4/5/2018,Snacks,"hummus - Hummus, 2 tbsp",Hummus,Healthy,70,4,5,2,130,1
+4/5/2018,Snacks,"Crackers - Crackers, 12 crackers",Crackers,Neutral,195,11,8,6,300,3
+4/6/2018,Breakfast,"Cuties - Clementines, 168 g (Approx 2)",Oranges,Healthy,80,17,1,1,0,13
+4/6/2018,Lunch,"Cooked Mussels - Mussels, 4 Medium Mussel",Mussels,Neutral,48,1,2,4,216,0
+4/6/2018,Lunch,"Great Value - Fish Fillets, 2 f fillets",Fish,Healthy,240,19,12,9,750,1
+4/6/2018,Lunch,"Member's Mark - Angus Roast Beef-2 Slices, 50 slices",Beef,Neutral,575,0,0,100,"2,325",0
+4/6/2018,Lunch,"Sushi - Edamane, 5 oz",Edamame,Healthy,100,9,3,7,260,2
+4/6/2018,Dinner,"Goya - Cannellini Beans, 0.25 cup (122 g)",Cannellini Beans,Healthy,40,9,0,3,195,0
+4/6/2018,Dinner,"Morrison - Brown Rice, 0.3 cup",Brown Rice,Healthy,74,15,1,2,24,0
+4/6/2018,Dinner,"Black Beans, 0.25 cup",Black Beans,Healthy,55,10,1,4,5,1
+4/6/2018,Dinner,"Smoked Cheese - Smoked Cheddar Cheese, 2 oz or 28grams",Cheddar Cheese,Unhealthy,120,0,10,8,200,0
+4/6/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1 cup",Whole Milk,Neutral,146,11,8,8,98,13
+4/6/2018,Dessert,"Innofoods - Coconut Clusters, 60 g",Coconut Clusters,Neutral,320,22,26,6,120,14
+4/6/2018,Snacks,"Barber Foods - Chicken Parmesan, 0.9 piece",Chicken Parmesan,Unhealthy,225,12,13,18,441,2
+4/6/2018,Snacks,"Smoked Cheese - Smoked Cheddar Cheese, 2 oz or 28grams",Cheddar Cheese,Unhealthy,120,0,10,8,200,0
+4/6/2018,Snacks,"Homemade - Quick Tomato Sauce, 0.5 cup",Tomato Sauce,Neutral,60,6,2,2,44,4
+4/6/2018,Snacks,"Pure Protein - Whey Protein Vanilla, 1 scoop",Whey Protein,Neutral,150,8,3,25,100,2
+4/6/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1 cup",Whole Milk,Neutral,146,11,8,8,98,13
+4/7/2018,Breakfast,"Cuties - Clementines, 168 g (Approx 2)",Oranges,Healthy,80,17,1,1,0,13
+4/7/2018,Lunch,"Morrison - Brown Rice, 0.3 cup",Brown Rice,Healthy,74,15,1,2,24,0
+4/7/2018,Lunch,"Rice - White, glutinous, cooked, 0.3 cup",White Rice,Neutral,51,11,0,1,3,0
+4/7/2018,Lunch,"Black Beans, 0.25 cup",Black Beans,Healthy,55,10,1,4,5,1
+4/7/2018,Lunch,"Goya - Cannellini Beans, 0.25 cup (122 g)",Cannellini Beans,Healthy,40,9,0,3,195,0
+4/7/2018,Lunch,"Barber Foods - Chicken Parmesan, 2 piece",Orange Chicken,Unhealthy,500,26,28,40,980,4
+4/7/2018,Lunch,"Homemade - Quick Tomato Sauce, 0.5 cup",Tomato Sauce,Neutral,60,6,2,2,44,4
+4/7/2018,Lunch,"Cheese - Mozzerella, 1 oz",Mozzerella Cheese,Unhealthy,70,0,6,6,177,0
+4/7/2018,Dinner,"Barber Foods - Chicken Parmesan, 1 piece",Orange Chicken,Unhealthy,250,13,14,20,490,2
+4/7/2018,Dinner,"Cheese - Mozzerella, 1 oz",Mozzerella Cheese,Unhealthy,70,0,6,6,177,0
+4/7/2018,Dinner,"Outtakes - Pasta Salad, 1 cup",Salad,Healthy,239,40,6,7,679,5
+4/7/2018,Snacks,"Spaghetti Warehouse - Spaghetti With Tomato Sauce, 1.5 dinner size",Pasta,Unhealthy,255,117,5,23,458,0
+4/7/2018,Dessert,"Milkshake - Milkshake, 1 blender full",Milkshake,Unhealthy,490,15,12,14,180,2
+4/8/2018,Breakfast,"Warrens - House Fries (Small), 1.75 oz",French Fries,Unhealthy,120,10,5,1,1,0
+4/8/2018,Breakfast,"Ketchup - Heinz, 15 milliliter",Ketchup,Unhealthy,20,5,0,0,160,4
+4/8/2018,Breakfast,"Generic - Salmon Locks, 1 oz",Fish,Healthy,55,0,3,12,280,0
+4/8/2018,Lunch,"Barber Foods - Chicken Parmesan, 2 piece",Orange Chicken,Unhealthy,500,26,28,40,980,4
+4/8/2018,Lunch,"Homemade - Quick Tomato Sauce, 0.5 cup",Tomato Sauce,Neutral,60,6,2,2,44,4
+4/8/2018,Lunch,"Cheese - Mozzerella, 1 oz",Mozzerella Cheese,Unhealthy,70,0,6,6,177,0
+4/8/2018,Lunch,"Pasta - Angel Hair Pasta, 2 oz",Pasta,Unhealthy,200,42,1,7,0,2
+4/8/2018,Dinner,"Silken tofu - Tofu, 1.25 cups",Tofu,Healthy,225,10,10,30,0,0
+4/8/2018,Dinner,"Broccoli, raw, 0.53 cup chopped",Broccoli,Healthy,16,3,0,1,16,1
+4/8/2018,Dinner,"Onions, raw, 0.33 cup, chopped",Onions,Healthy,21,5,0,1,2,2
+4/8/2018,Drinks,"Wine - Table, red, 3 glass (3.5 fl oz)",Red Wine,Unhealthy,222,5,0,1,15,0
+4/8/2018,Dessert,"Soft Serve Ice Cream - Vanilla Ice Cream, 1.5 cup",Ice Cream,Unhealthy,576,58,34,11,162,55
+4/9/2018,Breakfast,"Cuties - Clementines, 168 g (Approx 2)",Oranges,Healthy,80,17,1,1,0,13
+4/9/2018,Breakfast,"Innofoods - Coconut Clusters, 30 g",Coconut Clusters,Neutral,160,11,13,3,60,7
+4/9/2018,Lunch,"Barber Foods - Chicken Parmesan, 2 piece",Orange Chicken,Unhealthy,500,26,28,40,980,4
+4/9/2018,Lunch,"Homemade - Quick Tomato Sauce, 0.5 cup",Tomato Sauce,Neutral,60,6,2,2,44,4
+4/9/2018,Lunch,"Cheese - Mozzerella, 1 oz",Mozzerella Cheese,Unhealthy,70,0,6,6,177,0
+4/9/2018,Dinner,"Outtakes - Pasta Salad, 1 cup",Salad,Healthy,239,40,6,7,679,5
+4/9/2018,Dinner,"Tofu Steak - Bbq Grilled, 3 oz",Tofu,Healthy,130,3,7,14,15,0
+4/9/2018,Dinner,"Broccoli, raw, 0.53 cup chopped",Broccoli,Healthy,16,3,0,1,16,1
+4/9/2018,Dinner,"chickpeas - Chickpeas, 1 tablespoon",Chickpeas,Healthy,46,8,1,2,3,1
+4/9/2018,Snacks,"Pure Protein - Whey Protein Vanilla, 1 scoop",Whey Protein,Neutral,150,8,3,25,100,2
+4/9/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1 cup",Whole Milk,Neutral,146,11,8,8,98,13
+4/9/2018,Snacks,"Crackers - Crackers, 12 crackers",Crackers,Neutral,195,11,8,6,300,3
+4/9/2018,Snacks,"hummus - Hummus, 2 tbsp",Hummus,Healthy,70,4,5,2,130,1
+4/10/2018,Breakfast,"Egg - Egg, 2 large",Eggs,Healthy,143,1,10,13,142,0
+4/10/2018,Breakfast,"Ketchup - Heinz, 15 milliliter",Ketchup,Unhealthy,20,5,0,0,160,4
+4/10/2018,Breakfast,"Smoked Cheese - Smoked Cheddar Cheese, 2 oz or 28grams",Cheddar Cheese,Unhealthy,120,0,10,8,200,0
+4/10/2018,Breakfast,"Warrens - House Fries (Small), 1.75 oz",French Fries,Unhealthy,120,10,5,1,1,0
+4/10/2018,Lunch,"Barber Foods - Chicken Parmesan, 1.66 piece",Orange Chicken,Unhealthy,415,22,23,33,813,3
+4/10/2018,Lunch,"Homemade - Quick Tomato Sauce, 0.5 cup",Tomato Sauce,Neutral,60,6,2,2,44,4
+4/10/2018,Lunch,"Pasta - Angel Hair Pasta, 2 oz",Pasta,Unhealthy,200,42,1,7,0,2
+4/10/2018,Dinner,"Broccoli, raw, 0.53 cup chopped",Broccoli,Healthy,16,3,0,1,16,1
+4/10/2018,Dinner,"Tofu Steak - Bbq Grilled, 6 oz",Tofu,Healthy,260,6,14,28,30,0
+4/10/2018,Dinner,"Outtakes - Pasta Salad, 0.38 cup",Salad,Healthy,90,15,2,3,255,2
+4/10/2018,Snacks,"Banana - Banana, 1 medium banana (126 g)",Banana,Healthy,105,27,0,1,1,14
+4/10/2018,Snacks,"Pure Protein - Whey Protein Vanilla, 1 scoop",Whey Protein,Neutral,150,8,3,25,100,2
+4/10/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1 cup",Whole Milk,Neutral,146,11,8,8,98,13
+4/10/2018,Snacks,"OreIda - Sweet Potato Fries, 4.2 Oz",French Fries,Unhealthy,224,29,11,1,224,8
+4/10/2018,Snacks,"Ketchup - Heinz, 30 milliliter",Ketchup,Unhealthy,40,10,0,1,320,8
+4/11/2018,Breakfast,"Banana - Banana, 1 medium banana (126 g)",Banana,Healthy,105,27,0,1,1,14
+4/11/2018,Lunch,"Barber Foods - Chicken Parmesan, 2.3 piece",Orange Chicken,Unhealthy,575,30,32,46,"1,127",5
+4/11/2018,Lunch,"Pasta - Angel Hair Pasta, 1 oz",Pasta,Unhealthy,100,21,1,4,0,1
+4/11/2018,Lunch,"Homemade - Quick Tomato Sauce, 0.5 cup",Tomato Sauce,Neutral,60,6,2,2,44,4
+4/11/2018,Lunch,"Cheese - Mozzerella, 1 oz",Mozzerella Cheese,Unhealthy,70,0,6,6,177,0
+4/11/2018,Dinner,"Chipotle (Chicken & Steak) - Burrito, 1 burrito",Burrito,Unhealthy,"1,270",131,48,82,"2,590",9
+4/11/2018,Snacks,"Pure Protein - Whey Protein Vanilla, 1 scoop",Whey Protein,Neutral,150,8,3,25,100,2
+4/11/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1 cup",Whole Milk,Neutral,146,11,8,8,98,13
+4/12/2018,Breakfast,"Banana - Banana, 1 medium banana (126 g)",Banana,Healthy,105,27,0,1,1,14
+4/12/2018,Breakfast,"Milk - Whole, 3.25% milkfat, 1.25 cup",Whole Milk,Neutral,183,14,10,10,122,16
+4/12/2018,Lunch,"Mrs.t's - Perogies, 14 pieces",Perogies,Unhealthy,770,147,11,25,"1,820",4
+4/12/2018,Lunch,"Homemade - Quick Tomato Sauce, 1 cup",Tomato Sauce,Neutral,120,12,5,4,88,8
+4/12/2018,Dinner,"Ohiohealth - Healthy Buffalo Cauliflower Bites, 3 Cup",Cauliflower Bites,Healthy,141,15,6,4,0,0
+4/12/2018,Dinner,"Pasta - Angel Hair Pasta, 1 oz",Pasta,Unhealthy,100,21,1,4,0,1
+4/12/2018,Dinner,"Priano - Pesto, 2 Tbsp",Pesto,Unhealthy,150,2,14,2,360,0
+4/12/2018,Snacks,"Kirlands - unsalted mixed nuts, 0.5 cup",Nuts,Healthy,380,14,32,10,0,4
+4/12/2018,Dessert,"Innofoods - Coconut Clusters, 60 g",Coconut Clusters,Neutral,320,22,26,6,120,14
+4/13/2018,Breakfast,"Banana - Banana, 1 medium banana (126 g)",Banana,Healthy,105,27,0,1,1,14
+4/13/2018,Lunch,"Egg - Egg, 2 large",Eggs,Healthy,143,1,10,13,142,0
+4/13/2018,Lunch,"Warrens - House Fries (Small), 1.75 oz",French Fries,Unhealthy,120,10,5,1,1,0
+4/13/2018,Lunch,"Smoked Cheese - Smoked Cheddar Cheese, 2 oz or 28grams",Cheddar Cheese,Unhealthy,120,0,10,8,200,0
+4/13/2018,Lunch,"Tofu Steak - Bbq Grilled, 3 oz",Tofu,Healthy,130,3,7,14,15,0
+4/13/2018,Lunch,"Ketchup - Heinz, 15 milliliter",Ketchup,Unhealthy,20,5,0,0,160,4
+4/13/2018,Dinner,"Generic - Injira, 2 piece",Injira,Neutral,332,64,4,10,56,0
+4/13/2018,Dinner,"Moya - Doro Tibs, 2.5 cup",Tibs,Neutral,760,18,40,83,0,0
+4/13/2018,Snacks,"Pure Protein - Whey Protein Vanilla, 1 scoop",Whey Protein,Neutral,150,8,3,25,100,2
+4/13/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1 cup",Whole Milk,Neutral,146,11,8,8,98,13
+4/13/2018,Snacks,"hummus - Hummus, 2 tbsp",Hummus,Healthy,70,4,5,2,130,1
+4/13/2018,Snacks,"Ohiohealth - Healthy Buffalo Cauliflower Bites, 2.5 Cup",Cauliflower Bites,Healthy,118,13,5,4,0,0
+4/14/2018,Breakfast,"Egg - Egg, 2 large",Eggs,Healthy,143,1,10,13,142,0
+4/14/2018,Breakfast,"Warrens - House Fries (Small), 1.75 oz",French Fries,Unhealthy,120,10,5,1,1,0
+4/14/2018,Breakfast,"Tillamook - Cheddar Cheese - Medium, 1 oz (28g)",Cheddar Cheese,Unhealthy,110,0,9,7,170,0
+4/14/2018,Breakfast,"Ohiohealth - Healthy Buffalo Cauliflower Bites, 1 Cup",Cauliflower Bites,Healthy,47,5,2,1,0,0
+4/14/2018,Breakfast,"Ketchup - Heinz, 60 milliliter",Ketchup,Unhealthy,80,20,0,1,640,16
+4/14/2018,Lunch,"Chipolte - Tortilla only, 1 Tortilla",Tortilla,Unhealthy,290,44,9,7,670,0
+4/14/2018,Lunch,"Chipotle - Fajita Vegetables, 2.5 oz",Veggies,Healthy,20,4,1,1,170,2
+4/14/2018,Lunch,"Chipotle - Chicken, 4 oz",Chicken,Neutral,180,0,7,32,310,0
+4/14/2018,Lunch,"Chipotle - Fresh Tomato Salsa, 3.5 oz",Salsa,Neutral,20,4,0,1,500,3
+4/14/2018,Lunch,"Chipotle - Tomatillo-Red Chili Salsa, 2 fl oz",Salsa,Neutral,25,4,1,1,500,1
+4/14/2018,Lunch,"Chipotle - Cheese, 1 oz",Cheddar Cheese,Unhealthy,100,1,8,6,190,0
+4/14/2018,Lunch,"Chipotle - Guacamole, 1.75 oz",Guacamole,Healthy,100,4,10,1,165,1
+4/14/2018,Lunch,"Chipotle - Romaine Lettuce (tacos), 1 oz",Lettuce,Healthy,5,1,0,0,0,0
+4/14/2018,Lunch,"Chipotle - Black Beans, 2 oz",Black Beans,Healthy,60,11,1,4,130,1
+4/14/2018,Lunch,"Chipotle - Cilantro-Lime White Rice, 2 oz",White Rice,Neutral,93,17,2,2,188,0
+4/14/2018,Dinner,"Chipotle - Tomatillo-Red Chili Salsa, 2 fl oz",Salsa,Neutral,25,4,1,1,500,1
+4/14/2018,Dinner,"Chipotle - Fresh Tomato Salsa, 3.5 oz",Salsa,Neutral,20,4,0,1,500,3
+4/14/2018,Dinner,"Chipolte - Tortilla only, 0.8 Tortilla",Tortilla,Unhealthy,232,35,7,6,536,0
+4/14/2018,Snacks,"Pure Protein - Whey Protein Vanilla, 1 scoop",Whey Protein,Neutral,150,8,3,25,100,2
+4/14/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1 cup",Whole Milk,Neutral,146,11,8,8,98,13
+4/14/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1 cup",Whole Milk,Neutral,146,11,8,8,98,13
+4/14/2018,Dessert,"Halo Ice Cream - Vanilla Bean, 85.76 gram",Ice Cream,Unhealthy,80,15,2,8,147,5
+4/15/2018,Breakfast,"Egg - Egg, 2 large",Eggs,Healthy,143,1,10,13,142,0
+4/15/2018,Breakfast,"Smoked Cheese - Smoked Cheddar Cheese, 3 oz or 28grams",Cheddar Cheese,Unhealthy,180,0,15,12,300,0
+4/15/2018,Lunch,"Tofu Steak - Bbq Grilled, 3 oz",Tofu,Healthy,130,3,7,14,15,0
+4/15/2018,Lunch,"Warrens - House Fries (Small), 1.75 oz",French Fries,Unhealthy,120,10,5,1,1,0
+4/15/2018,Lunch,"Ohiohealth - Healthy Buffalo Cauliflower Bites, 1.5 Cup",Cauliflower Bites,Healthy,71,8,3,2,0,0
+4/15/2018,Lunch,"Ketchup - Heinz, 30 milliliter",Ketchup,Unhealthy,40,10,0,1,320,8
+4/15/2018,Dinner,"Chunk Light - Tuna Pack, 1 pouch (2.6oz/74g)",Fish,Healthy,70,0,1,17,300,0
+4/15/2018,Dinner,"Pringles - Sour Cream & Onion (1.41oz), 0.5 can",Potato Chips,Unhealthy,105,12,6,1,115,1
+4/15/2018,Snacks,"Trader Joe's - Organic Oats & Flax Instant Oatmeal, 0.66 packet",Oatmeal,Healthy,99,19,1,3,86,7
+4/15/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1.5 cup",Whole Milk,Neutral,220,17,12,12,146,19
+4/15/2018,Dessert,"Innofoods - Coconut Clusters, 60 g",Coconut Clusters,Neutral,320,22,26,6,120,14
+4/16/2018,Breakfast,"Trader Joe's - Organic Oats & Flax Instant Oatmeal, 1 packet",Oatmeal,Healthy,150,29,2,4,130,11
+4/16/2018,Lunch,"Chunk Light - Tuna Pack, 1 pouch (2.6oz/74g)",Fish,Healthy,70,0,1,17,300,0
+4/16/2018,Lunch,"Primal Kitchen - Avocado Oil Mayo, 0.9 tablespoon",Mayo,Unhealthy,90,0,11,0,113,0
+4/16/2018,Lunch,"hummus - Hummus, 2 tbsp",Hummus,Healthy,70,4,5,2,130,1
+4/16/2018,Lunch,"365 - Pita Chips Sea Salt, 28 gram",Pita Chips,Neutral,109,18,3,3,217,1
+4/16/2018,Dinner,"Morrison - Brown Rice, 0.5 cup",Brown Rice,Healthy,124,26,1,3,39,1
+4/16/2018,Dinner,"Silken tofu - Tofu, 0.75 cups",Tofu,Healthy,135,6,6,18,0,0
+4/16/2018,Dinner,"Broccoli, raw, 0.53 cup chopped",Broccoli,Healthy,16,3,0,1,16,1
+4/16/2018,Dinner,"Cauliflower Rice - Cauliflower Rice (Plain), 1 cup",Cauliflower Rice,Healthy,25,5,0,2,32,2
+4/16/2018,Snacks,"Pure Protein - Whey Protein Vanilla, 1 scoop",Whey Protein,Neutral,150,8,3,25,100,2
+4/16/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1 cup",Whole Milk,Neutral,146,11,8,8,98,13
+4/16/2018,Snacks,"Cuties - Clementines, 168 g (Approx 2)",Oranges,Healthy,80,17,1,1,0,13
+4/16/2018,Snacks,"Wonderful - Pastachios, 0.5 cup",Nuts,Healthy,150,8,13,6,135,2
+4/16/2018,Snacks,"365 - Pita Chips Sea Salt, 70 gram",Pita Chips,Neutral,272,44,7,7,543,2
+4/16/2018,Drinks,"Bacardi - Rum, 60 ml",Rum,Unhealthy,144,0,0,0,0,0
+4/17/2018,Breakfast,"Pure Protein - Whey Protein Vanilla, 1 scoop",Whey Protein,Neutral,150,8,3,25,100,2
+4/17/2018,Breakfast,"Banana - Banana, 1 medium banana (126 g)",Banana,Healthy,105,27,0,1,1,14
+4/17/2018,Breakfast,"Milk - Whole, 3.25% milkfat, 1.25 cup",Whole Milk,Neutral,183,14,10,10,122,16
+4/17/2018,Breakfast,"Morrison - Brown Rice, 0.5 cup",Brown Rice,Healthy,124,26,1,3,39,1
+4/17/2018,Breakfast,"Tofu - Tofu, 3 oz",Tofu,Healthy,60,1,7,10,0,0
+4/17/2018,Lunch,"Morrison - Brown Rice, 1 cup",Brown Rice,Healthy,248,52,2,5,78,1
+4/17/2018,Lunch,"Rice - White, glutinous, cooked, 0.3 cup",White Rice,Neutral,51,11,0,1,3,0
+4/17/2018,Lunch,"Tofu - Tofu, 6 oz",Tofu,Healthy,120,2,14,20,0,0
+4/17/2018,Dinner,"Cici's Pizza - Ham Pizza, 9 slice",Pizza,Unhealthy,"1,296",180,29,45,"2,187",0
+4/17/2018,Snacks,"Cashews - Cashews, 0.5 cup",Nuts,Healthy,340,14,28,12,0,0
+4/17/2018,Snacks,"Simply Nature - Vanilla Chip Chewy Granola Bar (Corrected 7/15), 1 bar",Granola Bar,Neutral,100,18,3,2,15,8
+4/17/2018,Snacks,"365 - Pita Chips Sea Salt, 70 gram",Pita Chips,Neutral,272,44,7,7,543,2
+4/18/2018,Breakfast,"Banana - Banana, 1 medium banana (126 g)",Banana,Healthy,105,27,0,1,1,14
+4/18/2018,Lunch,"organic - grass fed beef, 0.5 lb(s)",Beef,Neutral,290,0,10,50,180,0
+4/18/2018,Lunch,"Onions, raw, 0.33 cup, chopped",Onions,Healthy,21,5,0,1,2,2
+4/18/2018,Lunch,"Sun Rice - Brown and Red rice, 140 grams",Brown Rice,Healthy,498,101,4,11,0,0
+4/18/2018,Dinner,"Golden potatoes - Golden, 296 g/5.3oz",Potatoes,Neutral,220,52,0,6,0,2
+4/18/2018,Dinner,"Oil - Olive, 1 tablespoon",Oil,Unhealthy,119,0,14,0,0,0
+4/18/2018,Dinner,"Asparagus - Raw, 2 cup",Asparagus,Healthy,54,10,0,6,5,5
+4/18/2018,Dinner,"Ohiohealth - Healthy Buffalo Cauliflower Bites, 1.5 Cup",Cauliflower Bites,Healthy,71,8,3,2,0,0
+4/18/2018,Snacks,"Pure Protein - Whey Protein Vanilla, 1 scoop",Whey Protein,Neutral,150,8,3,25,100,2
+4/18/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1 cup",Whole Milk,Neutral,146,11,8,8,98,13
+4/18/2018,Snacks,"Cashews - Cashews, 0.33 cup",Nuts,Healthy,221,9,18,8,0,0
+4/18/2018,Snacks,"Cuties - Clementines, 168 g (Approx 2)",Oranges,Healthy,80,17,1,1,0,13
+4/19/2018,Breakfast,"Pizza - Meat, 2 slice",Pizza,Unhealthy,372,8,26,29,"1,174",6
+4/19/2018,Lunch,"Pizza - Meat, 2 slice",Pizza,Unhealthy,372,8,26,29,"1,174",6
+4/19/2018,Lunch,"Golden potatoes - Golden, 148 g/5.3oz",Potatoes,Neutral,110,26,0,3,0,1
+4/19/2018,Lunch,"Asparagus - Raw, 1 cup",Asparagus,Healthy,27,5,0,3,3,3
+4/19/2018,Dinner,"organic - grass fed beef, 0.5 lb(s)",Beef,Neutral,290,0,10,50,180,0
+4/19/2018,Dinner,"Pasta - Angel Hair Pasta, 2 oz",Pasta,Unhealthy,200,42,1,7,0,2
+4/19/2018,Dinner,"Broccoli, raw, 0.53 cup chopped",Broccoli,Healthy,16,3,0,1,16,1
+4/19/2018,Dinner,"Onions, raw, 0.33 cup, chopped",Onions,Healthy,21,5,0,1,2,2
+4/19/2018,Dinner,"Cashews - Cashews, 0.25 cup",Nuts,Healthy,170,7,14,6,0,0
+4/19/2018,Snacks,"Simply Nature - Vanilla Chip Chewy Granola Bar (Corrected 7/15), 2 bar",Granola Bar,Neutral,200,36,5,4,30,16
+4/19/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1 cup",Whole Milk,Neutral,146,11,8,8,98,13
+4/19/2018,Snacks,"Banana - Banana, 1 medium banana (126 g)",Banana,Healthy,105,27,0,1,1,14
+4/19/2018,Snacks,"Cashews - Cashews, 0.5 cup",Nuts,Healthy,340,14,28,12,0,0
+4/20/2018,Breakfast,"Banana - Banana, 1 medium banana (126 g)",Banana,Healthy,105,27,0,1,1,14
+4/20/2018,Lunch,"Golden potatoes - Golden, 148 g/5.3oz",Potatoes,Neutral,110,26,0,3,0,1
+4/20/2018,Lunch,"Asparagus - Raw, 1 cup",Asparagus,Healthy,27,5,0,3,3,3
+4/20/2018,Lunch,"Ohiohealth - Healthy Buffalo Cauliflower Bites, 1.5 Cup",Cauliflower Bites,Healthy,71,8,3,2,0,0
+4/20/2018,Dinner,"Hormel - Sausages, 0.99 links",Sausage,Unhealthy,66,0,6,3,191,0
+4/20/2018,Dinner,"Celentano - Ravioli, 6 ravioli",Ravioli,Unhealthy,345,54,9,14,375,3
+4/20/2018,Snacks,"Pure Protein - Whey Protein Vanilla, 1 scoop",Whey Protein,Neutral,150,8,3,25,100,2
+4/20/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1 cup",Whole Milk,Neutral,146,11,8,8,98,13
+4/20/2018,Snacks,"Simply Nature - Vanilla Chip Chewy Granola Bar (Corrected 7/15), 2 bar",Granola Bar,Neutral,200,36,5,4,30,16
+4/20/2018,Snacks,"Cashews - Cashews, 0.5 cup",Nuts,Healthy,340,14,28,12,0,0
+4/21/2018,Breakfast,"Thomas' - Everything Bagel, 1 bagel",Bagel,Unhealthy,280,51,4,11,410,7
+4/21/2018,Breakfast,"Philidephia - Veggie Cream Cheese, 2 Tbsp",Cream Cheese,Unhealthy,90,2,8,2,160,1
+4/21/2018,Lunch,"Subway - Sweet Onion Chicken, 1 sand",Chicken Sandwich,Neutral,370,57,5,25,770,16
+4/21/2018,Lunch,"Cheese, provolone, 1 oz",Provolone Cheese,Unhealthy,100,1,8,7,248,0
+4/21/2018,Lunch,"olives - Olives, 10 pieces",Olives,Neutral,50,2,5,0,660,0
+4/21/2018,Lunch,"Subway - Condiment - Sweet Onion Sauce, 21 g",Sweet Onion Sauce,Unhealthy,40,9,0,0,85,8
+4/21/2018,Dinner,"Tilapia Fillets - Tilapia, 2 Fillet",Fish,Healthy,200,0,5,40,150,0
+4/21/2018,Dinner,"Hannah - Taboule, 1 cup",Salad,Healthy,240,26,14,6,980,6
+4/21/2018,Dinner,"Rice - White, glutinous, cooked, 0.3 cup",White Rice,Neutral,51,11,0,1,3,0
+4/21/2018,Snacks,"Kind - Dark Chocolate Chunk Bar, 3 bar",Granola Bar,Neutral,450,75,14,9,195,27
+4/21/2018,Dessert,"Outtakes - Pineapple, 7 ounce",Pineapple,Healthy,99,26,0,1,2,20
+4/22/2018,Breakfast,"Thomas' - Everything Bagel, 1 bagel",Bagel,Unhealthy,280,51,4,11,410,7
+4/22/2018,Breakfast,"Philidephia - Veggie Cream Cheese, 2 Tbsp",Cream Cheese,Unhealthy,90,2,8,2,160,1
+4/22/2018,Lunch,"Zupas - California Turkey Sandwich, 1 sandwich",Turkey Sandwich,Neutral,580,51,31,24,"1,400",4
+4/22/2018,Lunch,"Wendy's - Garden Salad Side, 1 Side",Salad,Healthy,25,5,0,1,30,3
+4/22/2018,Dinner,"Tilapia Fillets - Tilapia, 2 Fillet",Fish,Healthy,200,0,5,40,150,0
+4/22/2018,Dinner,"Hannah - Taboule, 1 cup",Salad,Healthy,240,26,14,6,980,6
+4/22/2018,Dinner,"Outtakes - Pineapple, 10.5 ounce",Pineapple,Healthy,149,39,0,2,3,29
+4/22/2018,Snacks,"Kind - Dark Chocolate Chunk Bar, 1 bar",Granola Bar,Neutral,150,25,5,3,65,9
+4/22/2018,Dessert,"Innofoods - Coconut Clusters, 45 g",Coconut Clusters,Neutral,240,17,20,5,90,11
+4/22/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1.5 cup",Whole Milk,Neutral,220,17,12,12,146,19
+4/23/2018,Breakfast,"Egg - Egg, 2 large",Eggs,Healthy,143,1,10,13,142,0
+4/23/2018,Breakfast,"Tillamook - Sliced Swiss Cheese, 1 slice (28 g)",Swiss Cheese,Unhealthy,110,1,8,9,60,0
+4/23/2018,Breakfast,"Hannah - Taboule, 0.5 cup",Salad,Healthy,120,13,7,3,490,3
+4/23/2018,Lunch,"Homemade - Baked Chicken Wings, 7 wing",Chicken Wings,Unhealthy,602,0,41,56,847,0
+4/23/2018,Lunch,"Blue Cheese Dressing - Chunky, 2 Tbsp",Blue Cheese,Unhealthy,110,1,10,2,200,1
+4/23/2018,Dinner,"Celentano - Ravioli, 10 ravioli",Ravioli,Unhealthy,575,90,15,23,625,5
+4/23/2018,Dinner,"Homemade - Quick Tomato Sauce, 1.5 cup",Tomato Sauce,Neutral,180,18,7,6,131,12
+4/23/2018,Dinner,"chickpeas - Chickpeas, 2 tablespoon",Chickpeas,Healthy,92,16,2,5,6,3
+4/23/2018,Snacks,"Simply Nature - Vanilla Chip Chewy Granola Bar (Corrected 7/15), 1 bar",Granola Bar,Neutral,100,18,3,2,15,8
+4/23/2018,Snacks,"Pure Protein - Whey Protein Vanilla, 1 scoop",Whey Protein,Neutral,150,8,3,25,100,2
+4/23/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1 cup",Whole Milk,Neutral,146,11,8,8,98,13
+4/23/2018,Snacks,"Kind - Dark Chocolate Chunk Bar, 1 bar",Granola Bar,Neutral,150,25,5,3,65,9
+4/23/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1.5 cup",Whole Milk,Neutral,220,17,12,12,146,19
+4/23/2018,Dessert,"Innofoods - Coconut Clusters, 22.5 g",Coconut Clusters,Neutral,120,8,10,2,45,5
+4/23/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1 cup",Whole Milk,Neutral,146,11,8,8,98,13
+4/24/2018,Breakfast,"Egg - Egg, 2 large",Eggs,Healthy,143,1,10,13,142,0
+4/24/2018,Breakfast,"Tillamook - Sliced Swiss Cheese, 1 slice (28 g)",Swiss Cheese,Unhealthy,110,1,8,9,60,0
+4/24/2018,Breakfast,"Hannah - Taboule, 0.5 cup",Salad,Healthy,120,13,7,3,490,3
+4/24/2018,Lunch,"Celentano - Ravioli, 8 ravioli",Ravioli,Unhealthy,460,72,12,18,500,4
+4/24/2018,Lunch,"chickpeas - Chickpeas, 2 tablespoon",Chickpeas,Healthy,92,16,2,5,6,3
+4/24/2018,Lunch,"Homemade - Quick Tomato Sauce, 0.5 cup",Tomato Sauce,Neutral,60,6,2,2,44,4
+4/24/2018,Dinner,"Homemade - Baked Chicken Wings, 2 wing",Chicken Wings,Unhealthy,172,0,12,16,242,0
+4/24/2018,Dinner,"Chinese - Lo Mein, 1 cup",Lo Mein,Unhealthy,310,35,12,15,492,3
+4/24/2018,Dessert,"Enlightened - Ice Cream Sandwich, 0.6 sandwich",Ice Cream,Unhealthy,66,14,1,4,63,3
+4/24/2018,Dinner,"ARAMARK on Campus - Taco Chicken, 2 each",Tacos,Unhealthy,372,22,21,23,412,4
+4/24/2018,Dessert,"Popsicle - Popsicle, 1 bar",Popsicle,Unhealthy,40,10,0,0,0,7
+4/24/2018,Dinner,"Corn - Can, 0.25 cup",Corn,Healthy,30,6,1,1,0,4
+4/24/2018,Dinner,"Generic - Injira, 0.5 piece",Injira,Neutral,83,16,1,3,14,0
+4/24/2018,Snacks,"Wonderful - Pastachios, 0.25 cup",Nuts,Healthy,75,4,7,3,68,1
+4/24/2018,Snacks,"Pure Protein - Whey Protein Vanilla, 1 scoop",Whey Protein,Neutral,150,8,3,25,100,2
+4/24/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1 cup",Whole Milk,Neutral,146,11,8,8,98,13
+4/24/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1 cup",Whole Milk,Neutral,146,11,8,8,98,13
+4/24/2018,Snacks,"Kind - Dark Chocolate Chunk Bar, 1 bar",Granola Bar,Neutral,150,25,5,3,65,9
+4/25/2018,Breakfast,"Cuties - Clementines, 168 g (Approx 2)",Oranges,Healthy,80,17,1,1,0,13
+4/25/2018,Breakfast,"Egg - Egg, 2 large",Eggs,Healthy,143,1,10,13,142,0
+4/25/2018,Breakfast,"Tillamook - Sliced Swiss Cheese, 1 slice (28 g)",Swiss Cheese,Unhealthy,110,1,8,9,60,0
+4/25/2018,Lunch,"Celentano - Ravioli, 4 ravioli",Ravioli,Unhealthy,230,36,6,9,250,2
+4/25/2018,Lunch,"Homemade - Quick Tomato Sauce, 0.5 cup",Tomato Sauce,Neutral,60,6,2,2,44,4
+4/25/2018,Lunch,"Mrs.t's - Perogies, 5 pieces",Perogies,Unhealthy,275,53,4,9,650,1
+4/25/2018,Lunch,"chickpeas - Chickpeas, 1 tablespoon",Chickpeas,Healthy,46,8,1,2,3,1
+4/25/2018,Dinner,"Qdoba - Fajita Vegetables, 1 for Tacos",Veggies,Healthy,20,3,1,0,35,1
+4/25/2018,Dinner,"Qdoba - Pico de Gallo, 1 for Kids Meals",Salsa,Neutral,5,1,0,0,100,0
+4/25/2018,Dinner,"Qdoba - Salsa Roja, 1 for Tacos",Salsa,Neutral,5,1,0,0,150,1
+4/25/2018,Dinner,"Qdoba - Grilled Chicken, 2 for Kids Taco Meal, Tacos & Craft 2 Tacos",Chicken,Neutral,130,0,6,16,220,0
+4/25/2018,Dinner,"Qdoba - 3Cheese Queso, 2 for Craft 2 Menu",Queso,Unhealthy,90,4,8,4,300,0
+4/25/2018,Dinner,"Qdoba - Black Beans, 2 for Kids Meals & Craft 2 Menu",Black Beans,Healthy,140,24,2,8,220,0
+4/25/2018,Dinner,"Rice - White, glutinous, cooked, 1 cup",White Rice,Neutral,169,37,0,4,9,0
+4/25/2018,Dinner,"Qdoba - Flour Tortilla, 1 tortilla",Tortilla,Unhealthy,310,53,7,8,780,2
+4/25/2018,Dinner,"Qdoba - Tortilla Strips, 0.5 oz",Tortilla Strips,Unhealthy,70,0,4,0,0,0
+4/25/2018,Dinner,"Qdoba - Guac, 85 grams",Guacamole,Healthy,130,7,10,1,300,0
+4/25/2018,Snacks,"Simply Nature - Vanilla Chip Chewy Granola Bar (Corrected 7/15), 1 bar",Granola Bar,Neutral,100,18,3,2,15,8
+4/25/2018,Snacks,"Cuties - Clementines, 168 g (Approx 2)",Oranges,Healthy,80,17,1,1,0,13
+4/26/2018,Breakfast,"Tesco - Golden Kiwi Fruit, 0.5 Fruit",Kiwi,Healthy,22,4,0,0,0,0
+4/26/2018,Lunch,"Campbell's - Chicken Noodle Soup, 1.25 cup",Chicken Noodle Soup,Neutral,150,20,5,8,"2,225",3
+4/26/2018,Dinner,"Journey to India / Aldi - Tikka Masala, 0.81 cup",Tikka Masala,Unhealthy,228,20,15,0,"1,073",13
+4/26/2018,Dinner,"Tofu - Tofu, 3 oz",Tofu,Healthy,60,1,7,10,0,0
+4/26/2018,Dinner,"Giorgio - Mushrooms, 3 oz",Mushrooms,Healthy,20,3,0,2,10,1
+4/26/2018,Dinner,"Allrecipes.com - Bhindi Masala, 1/12 recipe",Bhindi Masala,Healthy,33,5,1,1,199,0
+4/26/2018,Dinner,"Trader Joes - Garlic Nan Bread, 1 piece",Garlic Bread,Unhealthy,230,37,4,4,330,0
+4/26/2018,Dinner,"Tilapia Fillets - Tilapia, 1 Fillet",Fish,Healthy,100,0,3,20,75,0
+4/26/2018,Dinner,"Onions, raw, 0.5 cup, chopped",Onions,Healthy,32,7,0,1,3,3
+4/26/2018,Drinks,"Wine - Table, red, 1.5 glass (3.5 fl oz)",Red Wine,Unhealthy,111,3,0,0,8,0
+4/26/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1.25 cup",Whole Milk,Neutral,183,14,10,10,122,16
+4/26/2018,Snacks,"Pure Protein - Whey Protein Vanilla, 1 scoop",Whey Protein,Neutral,150,8,3,25,100,2
+4/26/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1.25 cup",Whole Milk,Neutral,183,14,10,10,122,16
+4/26/2018,Snacks,"Cliff Bar - Blueberry Crisp, 1 Bars (68g)",Health Bar,Neutral,250,44,5,9,180,22
+4/26/2018,Snacks,"Milk - Whole, 3.25% milkfat, 0.33 cup",Whole Milk,Neutral,49,4,3,3,33,4
+4/26/2018,Snacks,"Wonderful - Pastachios, 0.63 cup",Nuts,Healthy,188,10,16,8,169,3
+4/26/2018,Snacks,"Popcorn - Popcorn, 2 cup",Popcorn,Neutral,110,13,6,2,30,2
+4/27/2018,Breakfast,"Pizza - Meat, 2 slice",Pizza,Unhealthy,372,8,26,29,"1,174",6
+4/27/2018,Lunch,"Pizza - Meat, 2 slice",Pizza,Unhealthy,372,8,26,29,"1,174",6
+4/27/2018,Lunch,"Golden potatoes - Golden, 148 g/5.3oz",Potatoes,Neutral,110,26,0,3,0,1
+4/27/2018,Lunch,"Asparagus - Raw, 1 cup",Asparagus,Healthy,27,5,0,3,3,3
+4/27/2018,Dinner,"organic - grass fed beef, 0.5 lb(s)",Beef,Neutral,290,0,10,50,180,0
+4/27/2018,Dinner,"Pasta - Angel Hair Pasta, 2 oz",Pasta,Unhealthy,200,42,1,7,0,2
+4/27/2018,Dinner,"Broccoli, raw, 0.53 cup chopped",Broccoli,Healthy,16,3,0,1,16,1
+4/27/2018,Dinner,"Onions, raw, 0.33 cup, chopped",Onions,Healthy,21,5,0,1,2,2
+4/27/2018,Dinner,"Cashews - Cashews, 0.25 cup",Nuts,Healthy,170,7,14,6,0,0
+4/27/2018,Snacks,"Simply Nature - Vanilla Chip Chewy Granola Bar (Corrected 7/15), 2 bar",Granola Bar,Neutral,200,36,5,4,30,16
+4/27/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1 cup",Whole Milk,Neutral,146,11,8,8,98,13
+4/27/2018,Snacks,"Banana - Banana, 1 medium banana (126 g)",Banana,Healthy,105,27,0,1,1,14
+4/27/2018,Snacks,"Cashews - Cashews, 0.5 cup",Nuts,Healthy,340,14,28,12,0,0
+4/28/2018,Breakfast,"Egg - Egg, 2 large",Eggs,Healthy,143,1,10,13,142,0
+4/28/2018,Breakfast,"Ketchup - Heinz, 15 milliliter",Ketchup,Unhealthy,20,5,0,0,160,4
+4/28/2018,Breakfast,"Smoked Cheese - Smoked Cheddar Cheese, 2 oz or 28grams",Cheddar Cheese,Unhealthy,120,0,10,8,200,0
+4/28/2018,Breakfast,"Warrens - House Fries (Small), 1.75 oz",French Fries,Unhealthy,120,10,5,1,1,0
+4/28/2018,Lunch,"Barber Foods - Chicken Parmesan, 1.66 piece",Orange Chicken,Unhealthy,415,22,23,33,813,3
+4/28/2018,Lunch,"Homemade - Quick Tomato Sauce, 0.5 cup",Tomato Sauce,Neutral,60,6,2,2,44,4
+4/28/2018,Lunch,"Pasta - Angel Hair Pasta, 2 oz",Pasta,Unhealthy,200,42,1,7,0,2
+4/28/2018,Dinner,"Broccoli, raw, 0.53 cup chopped",Broccoli,Healthy,16,3,0,1,16,1
+4/28/2018,Dinner,"Tofu Steak - Bbq Grilled, 6 oz",Tofu,Healthy,260,6,14,28,30,0
+4/28/2018,Dinner,"Outtakes - Pasta Salad, 0.38 cup",Salad,Healthy,90,15,2,3,255,2
+4/28/2018,Snacks,"Banana - Banana, 1 medium banana (126 g)",Banana,Healthy,105,27,0,1,1,14
+4/28/2018,Snacks,"Pure Protein - Whey Protein Vanilla, 1 scoop",Whey Protein,Neutral,150,8,3,25,100,2
+4/28/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1 cup",Whole Milk,Neutral,146,11,8,8,98,13
+4/28/2018,Snacks,"OreIda - Sweet Potato Fries, 4.2 Oz",French Fries,Unhealthy,224,29,11,1,224,8
+4/28/2018,Snacks,"Ketchup - Heinz, 30 milliliter",Ketchup,Unhealthy,40,10,0,1,320,8
+4/29/2018,Breakfast,"Trader Joe's - Organic Oats & Flax Instant Oatmeal, 1 packet",Oatmeal,Healthy,150,29,2,4,130,11
+4/29/2018,Lunch,"Chunk Light - Tuna Pack, 1 pouch (2.6oz/74g)",Fish,Healthy,70,0,1,17,300,0
+4/29/2018,Lunch,"Primal Kitchen - Avocado Oil Mayo, 0.9 tablespoon",Mayo,Unhealthy,90,0,11,0,113,0
+4/29/2018,Lunch,"hummus - Hummus, 2 tbsp",Hummus,Healthy,70,4,5,2,130,1
+4/29/2018,Lunch,"365 - Pita Chips Sea Salt, 28 gram",Pita Chips,Neutral,109,18,3,3,217,1
+4/29/2018,Dinner,"Morrison - Brown Rice, 0.5 cup",Brown Rice,Healthy,124,26,1,3,39,1
+4/29/2018,Dinner,"Silken tofu - Tofu, 0.75 cups",Tofu,Healthy,135,6,6,18,0,0
+4/29/2018,Dinner,"Broccoli, raw, 0.53 cup chopped",Broccoli,Healthy,16,3,0,1,16,1
+4/29/2018,Dinner,"Cauliflower Rice - Cauliflower Rice (Plain), 1 cup",Cauliflower Rice,Healthy,25,5,0,2,32,2
+4/29/2018,Snacks,"Pure Protein - Whey Protein Vanilla, 1 scoop",Whey Protein,Neutral,150,8,3,25,100,2
+4/29/2018,Snacks,"Milk - Whole, 3.25% milkfat, 1 cup",Whole Milk,Neutral,146,11,8,8,98,13
+4/29/2018,Snacks,"Cuties - Clementines, 168 g (Approx 2)",Oranges,Healthy,80,17,1,1,0,13
+4/29/2018,Snacks,"Wonderful - Pastachios, 0.5 cup",Nuts,Healthy,150,8,13,6,135,2
+4/29/2018,Snacks,"365 - Pita Chips Sea Salt, 70 gram",Pita Chips,Neutral,272,44,7,7,543,2
+4/29/2018,Drinks,"Bacardi - Rum, 60 ml",Rum,Unhealthy,144,0,0,0,0,0
+4/30/2018,Breakfast,"Pure Protein - Whey Protein Vanilla, 1 scoop",Whey Protein,Neutral,150,8,3,25,100,2
+4/30/2018,Breakfast,"Banana - Banana, 1 medium banana (126 g)",Banana,Healthy,105,27,0,1,1,14
+4/30/2018,Breakfast,"Milk - Whole, 3.25% milkfat, 1.25 cup",Whole Milk,Neutral,183,14,10,10,122,16
+4/30/2018,Lunch,"Morrison - Brown Rice, 1 cup",Brown Rice,Healthy,248,52,2,5,78,1
+4/30/2018,Lunch,"Rice - White, glutinous, cooked, 0.3 cup",White Rice,Neutral,51,11,0,1,3,0
+4/30/2018,Lunch,"Tofu - Tofu, 6 oz",Tofu,Healthy,120,2,14,20,0,0
+4/30/2018,Dinner,"Cici's Pizza - Ham Pizza, 9 slice",Pizza,Unhealthy,"1,296",180,29,45,"2,187",0
+4/30/2018,Snacks,"Cashews - Cashews, 0.5 cup",Nuts,Healthy,340,14,28,12,0,0
+4/30/2018,Snacks,"Simply Nature - Vanilla Chip Chewy Granola Bar (Corrected 7/15), 1 bar",Granola Bar,Neutral,100,18,3,2,15,8
+4/30/2018,Snacks,"365 - Pita Chips Sea Salt, 70 gram",Pita Chips,Neutral,272,44,7,7,543,2
